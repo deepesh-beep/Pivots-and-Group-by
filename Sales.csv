@@ -1,0 +1,1892 @@
+Trans Number,Employee,Year,Month,WeekDay,Product,Units,Sales,Location
+1,Betsy,2018,March,Thursday,lip gloss,45,137.2045583,south
+2,Hallagan,2018,March,Wednesday,foundation,50,152.0073031,midwest
+3,Ashley,2019,February,Friday,lipstick,9,28.71948312,midwest
+4,Hallagan,2020,May,Monday,lip gloss,55,167.0753225,west
+5,Zaret,2018,June,Thursday,lip gloss,43,130.6028724,midwest
+6,Colleen,2019,November,Sunday,eye liner,58,175.9909741,midwest
+7,Cristina,2018,March,Sunday,eye liner,8,25.80069218,midwest
+8,Colleen,2020,December,Sunday,lip gloss,72,217.8396539,midwest
+9,Ashley,2020,July,Wednesday,eye liner,75,226.6423269,south
+10,Betsy,2020,August,Monday,lip gloss,24,73.50234217,east
+11,Ashley,2018,November,Monday,mascara,43,130.8353684,east
+12,Ashley,2018,November,Thursday,lip gloss,23,71.03436769,west
+13,Emilee,2019,August,Wednesday,lip gloss,49,149.5927969,west
+14,Hallagan,2018,December,Saturday,eye liner,18,56.47199923,south
+15,Zaret,2020,September,Wednesday,foundation,8,21.99,east
+16,Emilee,2018,April,Monday,mascara,45,137.3903759,east
+17,Colleen,2020,April,Sunday,mascara,66,199.6543347,south
+18,Jen,2019,August,Wednesday,lip gloss,88,265.1875515,midwest
+19,Jen,2018,October,Wednesday,eye liner,78,236.1469779,south
+20,Zaret,2019,November,Sunday,lip gloss,57,173.1152946,midwest
+21,Zaret,2020,May,Friday,mascara,12,38.08143571,west
+22,Betsy,2018,September,Friday,eye liner,28,86.5127757,midwest
+23,Colleen,2020,January,Wednesday,mascara,25,77.30715164,midwest
+26,Emilee,2020,December,Wednesday,lip gloss,24,74.62243446,west
+27,Jen,2018,April,Monday,lipstick,38,115.9851772,midwest
+28,Cristina,2019,September,Thursday,foundation,77,233.0543887,midwest
+32,Cristina,2020,March,Tuesday,lip gloss,53,161.4639524,midwest
+33,Cici,2018,June,Thursday,mascara,41,125.2697559,west
+34,Zaret,2020,September,Saturday,mascara,19,59.1538987,west
+39,Cici,2020,February,Thursday,foundation,9,24.62575125,west
+40,Hallagan,2020,June,Saturday,foundation,38,115.5843378,south
+41,Emilee,2018,February,Friday,eye liner,25,76.56209584,south
+42,Emilee,2019,April,Sunday,mascara,19,59.38274936,midwest
+43,Betsy,2018,March,Thursday,foundation,86,259.8599693,west
+44,Colleen,2018,June,Sunday,lip gloss,55,167.1176136,midwest
+45,Emilee,2020,September,Wednesday,lip gloss,2,7.848360038,east
+46,Ashley,2019,August,Tuesday,mascara,93,280.6874786,east
+47,Zaret,2018,September,Friday,eye liner,14,43.93155366,west
+48,Emilee,2019,May,Tuesday,eye liner,37,113.03491,south
+49,Betsy,2018,November,Thursday,foundation,63,190.6951106,west
+50,Zaret,2018,November,Thursday,lip gloss,1,5.599704779,west
+51,Zaret,2019,June,Wednesday,eye liner,24,73.59927269,midwest
+52,Hallagan,2017,December,Sunday,eye liner,83,250.3327383,midwest
+53,Cici,2019,July,Thursday,eye liner,49,148.5065973,midwest
+54,Cristina,2019,April,Sunday,lip gloss,26,80.19791219,west
+55,Jen,2020,May,Monday,lip gloss,35,107.9926482,west
+56,Cristina,2018,April,Monday,lip gloss,8,26.90939978,south
+57,Cici,2018,June,Monday,mascara,49,148.7778475,midwest
+58,Cristina,2018,April,Monday,foundation,34,104.0937569,east
+59,Cristina,2019,December,Thursday,lip gloss,8,26.23656421,midwest
+60,Jen,2018,October,Wednesday,mascara,89,269.0908502,east
+61,Colleen,2019,November,Wednesday,foundation,62,189.2541589,midwest
+62,Emilee,2018,August,Wednesday,foundation,23,71.31321184,south
+63,Cici,2018,June,Thursday,eye liner,95,287.7608169,midwest
+64,Emilee,2020,May,Thursday,eye liner,41,125.0001884,south
+65,Ashley,2019,April,Sunday,lip gloss,6,15.94286116,midwest
+66,Betsy,2018,December,Saturday,mascara,84,253.9906178,south
+67,Hallagan,2019,November,Saturday,foundation,63,191.367139,south
+68,Zaret,2020,July,Sunday,lip gloss,0,2.36823309,west
+69,Cristina,2019,January,Sunday,eye liner,73,221.4068753,east
+70,Emilee,2018,December,Tuesday,eye liner,95,287.0532006,midwest
+71,Ashley,2019,November,Wednesday,lipstick,93,280.7679851,west
+72,Zaret,2018,June,Thursday,lipstick,54,163.8660541,south
+73,Cristina,2019,June,Sunday,foundation,33,101.3670642,south
+74,Ashley,2018,April,Monday,mascara,48,145.8360732,west
+75,Jen,2019,January,Sunday,eye liner,7,18.53145443,midwest
+76,Colleen,2020,March,Monday,foundation,2,3.941491559,west
+77,Cristina,2018,January,Thursday,mascara,27,83.2909097,east
+78,Emilee,2020,December,Sunday,foundation,56,170.237803,south
+79,Cristina,2019,February,Monday,mascara,70,212.2924231,south
+80,Jen,2019,March,Wednesday,mascara,16,49.45764588,west
+81,Jen,2020,January,Tuesday,lip gloss,69,208.6851296,east
+82,Colleen,2019,July,Friday,foundation,67,203.0142843,midwest
+83,Cici,2018,November,Sunday,foundation,82,248.0986078,west
+84,Ashley,2020,September,Sunday,eye liner,73,221.4762294,west
+85,Cici,2018,February,Tuesday,foundation,80,241.2623907,south
+86,Jen,2019,August,Tuesday,eye liner,2,4.237940561,east
+87,Emilee,2019,August,Wednesday,eye liner,5,17.02605804,east
+88,Zaret,2019,December,Monday,eye liner,26,80.2967645,south
+89,Cici,2019,March,Saturday,foundation,1,5.010144013,midwest
+90,Cici,2020,June,Tuesday,lipstick,3,7.615091886,south
+91,Betsy,2020,August,Friday,eye liner,83,251.1835056,south
+92,Jen,2018,May,Wednesday,mascara,33,100.3279523,midwest
+93,Zaret,2018,April,Monday,foundation,62,188.0646155,west
+94,Colleen,2020,May,Thursday,eye liner,58,176.4706951,midwest
+95,Emilee,2019,August,Saturday,foundation,28,85.54426026,south
+96,Jen,2020,December,Sunday,lip gloss,33,100.6861224,west
+97,Cristina,2020,November,Saturday,foundation,92,278.1593385,south
+98,Jen,2018,April,Monday,lip gloss,92,277.5397456,east
+99,Colleen,2020,January,Saturday,lip gloss,75,226.7397733,south
+100,Betsy,2019,September,Monday,eye liner,74,224.2334698,west
+101,Zaret,2018,January,Thursday,foundation,67,202.4500927,west
+102,Cristina,2018,August,Wednesday,foundation,16,49.45001851,south
+103,Hallagan,2019,May,Friday,foundation,90,272.3399159,west
+104,Jen,2020,March,Friday,lipstick,8,22.10755434,west
+105,Cristina,2018,September,Monday,lipstick,51,155.2981889,midwest
+106,Jen,2019,March,Wednesday,foundation,7,19.53289683,south
+107,Emilee,2018,March,Sunday,lip gloss,9,29.27782164,midwest
+108,Cici,2019,August,Wednesday,lip gloss,10,28.40674828,east
+109,Ashley,2020,July,Sunday,foundation,10,32.11320479,south
+110,Ashley,2019,March,Tuesday,mascara,35,107.5871043,midwest
+111,Cici,2018,October,Tuesday,mascara,81,244.4609935,west
+112,Cici,2018,November,Thursday,mascara,38,115.8648731,south
+113,Emilee,2020,December,Wednesday,mascara,26,80.48864508,west
+114,Betsy,2019,September,Thursday,lipstick,77,233.3310317,east
+115,Emilee,2020,January,Saturday,foundation,39,118.6270614,south
+116,Zaret,2020,June,Saturday,eye liner,22,68.07066359,east
+117,Zaret,2020,May,Friday,foundation,68,205.76676,midwest
+118,Cici,2019,May,Tuesday,foundation,59,178.713082,midwest
+119,Colleen,2020,May,Monday,eye liner,20,62.36656617,east
+120,Hallagan,2019,October,Tuesday,mascara,61,184.5624731,south
+121,Zaret,2020,March,Monday,foundation,30,92.43442247,south
+122,Jen,2020,July,Thursday,mascara,10,32.29872757,west
+123,Zaret,2020,April,Sunday,eye liner,72,217.4528985,south
+124,Ashley,2020,January,Tuesday,eye liner,57,173.363767,west
+125,Hallagan,2019,November,Wednesday,lip gloss,41,124.3880808,midwest
+126,Zaret,2018,April,Friday,eye liner,54,163.7455521,west
+127,Emilee,2019,July,Thursday,lipstick,9,29.25994967,midwest
+128,Cici,2019,May,Friday,lip gloss,1,5.006258685,south
+129,Zaret,2020,February,Sunday,mascara,10,28.8886005,west
+130,Ashley,2020,November,Tuesday,foundation,9,25.05971128,west
+131,Jen,2018,November,Monday,mascara,56,168.8685013,east
+132,Cici,2018,March,Sunday,lipstick,28,85.60062365,midwest
+133,Betsy,2018,July,Friday,mascara,11,34.41737859,east
+134,Cristina,2020,December,Sunday,lip gloss,11,34.91008669,south
+135,Cristina,2019,February,Monday,eye liner,67,202.8660818,west
+136,Colleen,2019,March,Wednesday,lip gloss,10,31.43203476,west
+137,Emilee,2018,October,Wednesday,foundation,40,121.9472564,west
+138,Colleen,2019,July,Thursday,mascara,77,233.0798357,west
+139,Betsy,2019,May,Tuesday,lipstick,50,152.0431852,south
+140,Jen,2018,June,Monday,eye liner,80,242.4955004,east
+141,Jen,2020,December,Thursday,eye liner,83,250.7946065,south
+142,Betsy,2020,January,Wednesday,lip gloss,4,9.499632763,west
+143,Colleen,2019,January,Thursday,foundation,46,139.7550971,south
+144,Ashley,2020,October,Monday,mascara,55,167.1931779,south
+145,Cici,2018,September,Friday,mascara,89,269.4046655,east
+146,Emilee,2019,July,Thursday,eye liner,59,179.1159001,west
+147,Emilee,2019,March,Tuesday,lipstick,90,271.7531568,east
+148,Ashley,2020,October,Friday,lipstick,17,53.66588403,midwest
+149,Cici,2019,March,Tuesday,lipstick,37,113.6496958,east
+150,Cristina,2020,March,Friday,foundation,4,9.424032728,south
+151,Emilee,2019,July,Thursday,lip gloss,8,22.37638666,west
+152,Zaret,2018,August,Thursday,lipstick,6,20.32160188,midwest
+153,Cici,2018,October,Saturday,lipstick,63,191.679961,west
+154,Jen,2018,August,Wednesday,lipstick,16,49.9437263,south
+155,Betsy,2019,January,Thursday,mascara,22,67.81434719,south
+156,Emilee,2019,December,Friday,foundation,81,244.9686688,west
+157,Emilee,2019,September,Sunday,lip gloss,85,256.5569641,south
+158,Jen,2018,May,Saturday,foundation,3,7.083148189,midwest
+159,Emilee,2019,January,Sunday,lip gloss,51,154.4875564,south
+160,Cici,2018,December,Saturday,lip gloss,72,217.4243726,south
+161,Cristina,2018,February,Tuesday,lip gloss,46,139.9299959,midwest
+162,Hallagan,2019,February,Friday,mascara,10,27.99619535,south
+163,Cici,2019,August,Tuesday,foundation,5,12.19723853,south
+164,Hallagan,2020,October,Thursday,eye liner,16,49.91762227,east
+165,Hallagan,2019,December,Monday,foundation,25,76.98689891,east
+166,Emilee,2019,March,Wednesday,eye liner,49,148.9071187,midwest
+167,Betsy,2018,March,Sunday,lip gloss,21,64.3266591,west
+168,Cristina,2020,May,Monday,lip gloss,29,88.98416146,south
+169,Ashley,2018,February,Tuesday,lip gloss,63,191.1140798,east
+170,Jen,2020,June,Tuesday,lip gloss,21,64.60296072,south
+171,Betsy,2019,October,Friday,foundation,93,280.1727693,west
+172,Colleen,2018,February,Saturday,foundation,55,167.5541568,south
+173,Emilee,2020,July,Sunday,foundation,14,43.89719699,south
+174,Jen,2018,March,Wednesday,lipstick,91,275.244796,south
+175,Emilee,2018,April,Friday,eye liner,80,242.448596,south
+176,Betsy,2019,November,Sunday,eye liner,70,211.7552315,south
+177,Cici,2018,July,Tuesday,mascara,54,164.3049667,west
+178,Ashley,2019,December,Monday,mascara,19,58.36289834,east
+179,Hallagan,2019,September,Thursday,foundation,38,115.8287887,south
+180,Colleen,2018,May,Wednesday,lipstick,60,182.0222938,east
+181,Hallagan,2019,October,Friday,lipstick,51,155.7378846,midwest
+182,Ashley,2018,May,Tuesday,lip gloss,78,236.1422346,midwest
+183,Hallagan,2018,November,Monday,foundation,17,52.46921821,west
+184,Jen,2018,August,Sunday,eye liner,13,40.80819271,midwest
+185,Emilee,2019,July,Thursday,mascara,2,8.036053554,south
+186,Betsy,2020,November,Saturday,mascara,74,223.8778326,east
+187,Colleen,2020,March,Friday,foundation,57,172.9242143,south
+188,Jen,2018,May,Tuesday,mascara,79,239.3442863,west
+189,Colleen,2019,June,Wednesday,foundation,82,247.4617745,west
+190,Cici,2020,September,Sunday,lip gloss,28,85.95722547,south
+191,Jen,2018,February,Friday,mascara,63,191.0302935,midwest
+192,Cristina,2019,September,Monday,foundation,72,217.5928786,west
+193,Cristina,2020,January,Tuesday,lipstick,68,205.9327034,midwest
+194,Emilee,2020,January,Saturday,eye liner,8,26.13873913,west
+195,Hallagan,2018,December,Friday,lipstick,62,188.5163423,midwest
+196,Jen,2019,March,Saturday,eye liner,5,16.34842723,east
+197,Colleen,2018,February,Friday,mascara,5,12.89806109,east
+198,Colleen,2020,May,Monday,mascara,4,9.998213253,west
+199,Cristina,2020,November,Saturday,mascara,81,244.6810419,west
+200,Cristina,2020,March,Friday,eye liner,21,64.74400337,south
+201,Cici,2019,June,Sunday,eye liner,21,64.86319232,east
+202,Hallagan,2019,December,Friday,foundation,3,7.154085897,south
+203,Cici,2020,December,Thursday,lip gloss,57,173.6444511,west
+204,Cici,2020,August,Friday,lip gloss,86,259.3097073,west
+205,Jen,2020,April,Wednesday,foundation,14,44.13901612,west
+206,Hallagan,2020,December,Wednesday,lipstick,20,61.95588114,midwest
+207,Colleen,2018,February,Friday,mascara,60,181.9394264,east
+208,Jen,2020,July,Wednesday,eye liner,45,137.1550783,west
+209,Jen,2018,March,Thursday,eye liner,7,22.99759982,midwest
+210,Betsy,2020,March,Monday,lip gloss,6,16.33447267,midwest
+211,Jen,2020,April,Sunday,lip gloss,35,106.8998222,south
+212,Colleen,2020,May,Thursday,foundation,31,95.13200096,east
+213,Jen,2019,November,Wednesday,lip gloss,19,59.07574093,west
+214,Zaret,2020,February,Sunday,eye liner,35,106.6433992,west
+215,Betsy,2018,December,Saturday,lipstick,51,154.5977158,east
+216,Hallagan,2020,February,Thursday,mascara,1,5.386713963,east
+217,Cici,2018,September,Friday,foundation,67,203.3591271,midwest
+218,Cici,2019,March,Wednesday,mascara,23,71.41259754,midwest
+219,Colleen,2019,January,Thursday,foundation,41,125.2347544,east
+220,Ashley,2018,January,Thursday,mascara,27,83.19511035,west
+221,Cristina,2020,September,Wednesday,foundation,56,170.1751256,midwest
+222,Ashley,2018,July,Tuesday,mascara,67,203.3531195,west
+223,Betsy,2018,September,Monday,foundation,94,283.7414176,west
+224,Cristina,2018,October,Tuesday,eye liner,52,158.297332,west
+225,Zaret,2018,February,Friday,lipstick,24,74.24389942,west
+226,Jen,2018,June,Sunday,lip gloss,1,0.917707768,south
+227,Hallagan,2020,January,Saturday,eye liner,37,112.5215821,south
+228,Betsy,2020,February,Thursday,foundation,63,191.4542393,south
+229,Cici,2018,April,Monday,lip gloss,13,41.01034685,west
+230,Hallagan,2020,November,Saturday,lip gloss,7,22.33487736,west
+231,Zaret,2018,March,Sunday,lip gloss,64,193.838793,west
+232,Ashley,2018,June,Sunday,lip gloss,63,190.9066869,midwest
+233,Emilee,2018,August,Wednesday,mascara,57,173.5902213,midwest
+234,Emilee,2018,November,Sunday,mascara,59,178.9266503,east
+235,Jen,2018,December,Tuesday,foundation,3,7.263759749,midwest
+236,Cici,2020,September,Sunday,lip gloss,86,260.3290702,south
+237,Cristina,2018,September,Friday,eye liner,4,9.993952068,east
+238,Ashley,2018,December,Saturday,lip gloss,7,23.65433257,west
+239,Cici,2020,September,Sunday,lip gloss,43,131.6776929,east
+240,Emilee,2019,November,Saturday,lip gloss,2,7.634844779,south
+241,Emilee,2019,April,Monday,mascara,85,256.8795702,midwest
+242,Emilee,2019,April,Thursday,eye liner,52,158.187042,midwest
+243,Colleen,2018,July,Friday,lipstick,3,7.39502105,south
+244,Cristina,2019,February,Friday,eye liner,8,25.54668905,east
+245,Cici,2018,July,Friday,mascara,5,17.19890558,east
+246,Hallagan,2020,August,Tuesday,mascara,90,272.0987044,south
+247,Betsy,2020,November,Tuesday,mascara,36,110.3374498,east
+248,Zaret,2019,August,Saturday,mascara,25,77.01490065,west
+249,Betsy,2019,March,Saturday,mascara,7,23.13320488,east
+250,Colleen,2020,October,Friday,mascara,64,194.2537247,east
+251,Colleen,2018,May,Tuesday,mascara,71,215.4930937,west
+252,Ashley,2019,April,Sunday,eye liner,41,124.8104232,east
+253,Ashley,2018,September,Friday,foundation,84,253.2861797,east
+254,Emilee,2019,March,Wednesday,eye liner,3,10.7030154,east
+255,Ashley,2018,March,Thursday,foundation,15,46.76167648,west
+256,Hallagan,2018,February,Friday,eye liner,1,4.882046203,south
+257,Hallagan,2019,July,Thursday,mascara,10,32.4684002,east
+258,Emilee,2019,January,Wednesday,eye liner,77,233.3993348,west
+259,Colleen,2019,February,Monday,lipstick,65,196.493466,south
+260,Zaret,2018,January,Thursday,eye liner,25,77.32957223,midwest
+261,Cici,2020,July,Sunday,mascara,1,1.930462866,south
+262,Jen,2020,August,Tuesday,foundation,2,7.970925012,midwest
+263,Zaret,2020,October,Friday,lip gloss,62,187.6196507,midwest
+264,Colleen,2019,May,Friday,foundation,28,86.78811328,west
+265,Hallagan,2019,July,Monday,eye liner,55,167.0507979,south
+266,Colleen,2019,June,Wednesday,lip gloss,28,86.63605738,south
+267,Cristina,2019,July,Friday,foundation,5,16.67083929,south
+268,Cristina,2018,November,Sunday,eye liner,1,4.772217254,east
+269,Cristina,2019,June,Wednesday,foundation,26,80.0120118,east
+270,Zaret,2018,June,Sunday,foundation,47,142.8460267,south
+271,Hallagan,2019,April,Monday,eye liner,74,224.7543505,east
+272,Cici,2020,May,Thursday,lip gloss,22,68.71060705,midwest
+273,Ashley,2020,June,Saturday,lipstick,70,212.262385,south
+274,Cici,2019,November,Sunday,foundation,83,251.3104258,midwest
+275,Hallagan,2019,December,Thursday,eye liner,59,179.3854668,west
+276,Cici,2019,August,Tuesday,mascara,0,1.583111561,midwest
+277,Hallagan,2019,January,Wednesday,eye liner,82,247.5824792,west
+278,Betsy,2019,March,Tuesday,eye liner,29,89.05312898,west
+279,Cici,2018,May,Saturday,foundation,63,191.0864147,east
+280,Jen,2020,September,Sunday,lip gloss,67,203.1084693,east
+281,Cristina,2019,July,Friday,eye liner,3,10.7807307,east
+282,Hallagan,2018,December,Friday,eye liner,65,197.4077875,east
+283,Emilee,2018,May,Wednesday,lipstick,75,227.4564793,west
+284,Emilee,2018,August,Sunday,lip gloss,79,239.8954682,west
+285,Jen,2020,August,Friday,mascara,5,12.92096017,midwest
+286,Jen,2019,March,Wednesday,foundation,31,95.5123177,south
+287,Ashley,2020,December,Sunday,mascara,21,65.34347331,south
+288,Ashley,2019,September,Sunday,lipstick,8,21.9125458,east
+289,Jen,2019,July,Thursday,lipstick,88,266.0518691,west
+290,Emilee,2019,November,Wednesday,foundation,94,283.8467876,midwest
+291,Zaret,2020,September,Sunday,mascara,83,251.4984055,midwest
+292,Ashley,2018,August,Wednesday,mascara,16,49.95553949,south
+293,Betsy,2020,August,Monday,mascara,33,100.5175326,midwest
+294,Betsy,2018,February,Saturday,eye liner,1,0.908140287,midwest
+295,Betsy,2020,July,Thursday,mascara,94,284.1359059,west
+296,Jen,2019,April,Thursday,foundation,76,230.2555702,midwest
+297,Betsy,2020,March,Monday,foundation,71,215.1564577,east
+298,Zaret,2018,May,Wednesday,lipstick,56,169.1948719,south
+299,Hallagan,2019,August,Wednesday,lip gloss,81,245.5857791,south
+300,Zaret,2018,June,Monday,eye liner,3,11.16250202,south
+301,Zaret,2019,April,Thursday,lip gloss,60,182.2126945,east
+302,Jen,2020,October,Monday,foundation,81,245.5423212,south
+303,Colleen,2018,May,Tuesday,foundation,70,211.4332365,midwest
+304,Cici,2020,May,Monday,mascara,18,56.27258406,midwest
+305,Hallagan,2019,February,Monday,lipstick,73,221.1700714,west
+306,Zaret,2019,February,Friday,foundation,7,18.78232049,east
+307,Zaret,2019,August,Saturday,foundation,55,166.6060922,midwest
+308,Cici,2018,May,Saturday,lip gloss,7,23.38737494,east
+309,Cici,2018,November,Thursday,eye liner,63,191.4492998,midwest
+310,Zaret,2019,July,Thursday,lip gloss,83,251.6293753,west
+311,Betsy,2018,February,Saturday,lip gloss,43,130.9719081,east
+312,Zaret,2018,July,Saturday,eye liner,67,203.3029878,south
+313,Colleen,2019,December,Friday,eye liner,9,24.96622797,midwest
+314,Cici,2018,June,Monday,foundation,1,1.475132378,midwest
+315,Betsy,2019,January,Wednesday,foundation,21,65.1965988,south
+316,Cristina,2019,November,Saturday,mascara,6,20.10306355,east
+317,Cristina,2018,January,Thursday,eye liner,0,1.605206034,east
+318,Jen,2018,October,Saturday,eye liner,20,61.99481197,east
+319,Ashley,2018,November,Sunday,foundation,70,212.5026331,south
+320,Jen,2018,May,Saturday,eye liner,94,283.8816683,east
+321,Hallagan,2018,October,Saturday,lip gloss,9,28.83051277,west
+322,Jen,2019,June,Sunday,mascara,27,83.64015403,east
+323,Colleen,2020,March,Friday,lipstick,43,130.9465618,south
+324,Emilee,2020,September,Wednesday,foundation,84,254.3898419,east
+325,Hallagan,2018,June,Sunday,eye liner,83,251.631757,midwest
+326,Hallagan,2018,August,Wednesday,lipstick,89,268.6718293,midwest
+327,Emilee,2020,October,Thursday,lip gloss,7,22.66854024,south
+328,Hallagan,2018,July,Friday,foundation,68,205.7564445,south
+329,Emilee,2019,October,Friday,eye liner,38,116.1428825,west
+330,Cici,2018,January,Monday,eye liner,90,271.3332095,midwest
+331,Cici,2018,August,Wednesday,eye liner,10,31.74006345,west
+332,Cristina,2020,October,Friday,foundation,13,40.1828242,east
+333,Jen,2018,June,Thursday,lip gloss,68,206.3786229,west
+334,Zaret,2018,June,Sunday,foundation,40,122.1707911,south
+335,Jen,2019,June,Saturday,foundation,17,52.5758158,west
+336,Cristina,2018,November,Monday,foundation,6,19.23353237,west
+337,Cristina,2020,May,Thursday,foundation,27,83.78608646,west
+338,Zaret,2020,July,Thursday,foundation,80,242.194065,midwest
+339,Colleen,2018,August,Wednesday,mascara,1,0.926797984,west
+340,Hallagan,2020,March,Tuesday,mascara,89,269.2635167,south
+341,Hallagan,2019,March,Wednesday,eye liner,21,65.22415463,midwest
+342,Cristina,2020,December,Sunday,lip gloss,37,113.1165299,east
+343,Colleen,2019,February,Monday,lipstick,15,46.63789886,east
+344,Ashley,2018,May,Wednesday,mascara,94,283.6200976,midwest
+345,Cici,2019,July,Monday,mascara,85,257.2853047,south
+346,Colleen,2018,November,Thursday,lip gloss,95,286.8640263,west
+347,Emilee,2019,May,Tuesday,lipstick,25,76.36893371,south
+348,Hallagan,2020,April,Wednesday,mascara,69,208.6071054,west
+349,Jen,2019,August,Wednesday,foundation,72,218.6691483,midwest
+350,Zaret,2020,February,Sunday,lipstick,4,9.50404893,west
+351,Colleen,2019,June,Sunday,lipstick,21,64.84783893,west
+352,Colleen,2019,January,Wednesday,eye liner,85,256.9679991,east
+353,Emilee,2019,September,Sunday,eye liner,85,257.0959881,south
+354,Ashley,2019,October,Friday,lip gloss,79,239.7558966,south
+355,Jen,2020,September,Saturday,lip gloss,81,245.0112759,south
+356,Ashley,2020,August,Tuesday,eye liner,76,229.577571,east
+357,Ashley,2019,June,Wednesday,lip gloss,31,95.41183787,east
+358,Zaret,2019,September,Thursday,eye liner,44,133.8415575,south
+359,Betsy,2020,December,Sunday,lipstick,44,133.9072414,west
+360,Cristina,2018,May,Wednesday,mascara,70,211.6858805,south
+361,Cristina,2018,November,Monday,foundation,4,9.453108015,east
+362,Jen,2019,November,Wednesday,lip gloss,28,86.33463819,midwest
+363,Ashley,2020,October,Thursday,mascara,83,250.6092386,south
+364,Cici,2020,July,Wednesday,lip gloss,46,140.4799368,south
+365,Jen,2020,May,Monday,lip gloss,88,266.3512568,west
+366,Emilee,2019,October,Friday,lip gloss,9,24.5374613,east
+367,Hallagan,2019,August,Tuesday,foundation,8,21.82535759,west
+368,Colleen,2020,July,Wednesday,foundation,37,113.0101592,midwest
+369,Hallagan,2018,February,Saturday,foundation,20,61.67879283,east
+370,Cristina,2019,September,Sunday,lip gloss,2,7.750927281,west
+371,Ashley,2019,August,Saturday,eye liner,36,110.5941813,south
+372,Ashley,2019,September,Monday,mascara,34,103.889651,west
+373,Cici,2020,April,Sunday,eye liner,84,253.8932206,midwest
+374,Hallagan,2020,August,Friday,mascara,89,268.4759487,east
+375,Zaret,2020,January,Wednesday,lip gloss,31,95.68069127,south
+376,Cici,2018,March,Sunday,lip gloss,7,22.54586326,west
+377,Hallagan,2018,February,Friday,lip gloss,7,22.93919334,west
+378,Emilee,2020,February,Thursday,eye liner,76,229.8925901,east
+379,Zaret,2018,July,Saturday,foundation,6,19.56101731,west
+380,Cristina,2020,October,Monday,lip gloss,43,130.2859021,west
+381,Cici,2018,January,Thursday,mascara,20,62.18277208,west
+382,Zaret,2020,March,Friday,lipstick,11,35.07681871,south
+383,Jen,2019,June,Sunday,eye liner,35,107.0532382,east
+384,Emilee,2020,March,Friday,foundation,72,218.1502392,south
+385,Cici,2018,May,Wednesday,foundation,49,148.9269298,west
+386,Jen,2020,March,Monday,foundation,88,266.6463138,midwest
+387,Ashley,2020,March,Tuesday,foundation,45,136.0073417,midwest
+388,Ashley,2018,March,Sunday,lip gloss,37,112.9290042,midwest
+389,Colleen,2019,April,Sunday,lip gloss,12,38.6183379,midwest
+390,Jen,2018,May,Saturday,mascara,18,55.93206778,midwest
+391,Hallagan,2020,January,Saturday,lip gloss,75,226.9979656,south
+392,Jen,2019,February,Friday,foundation,8,26.31420482,south
+393,Betsy,2018,March,Thursday,lip gloss,37,112.5353425,east
+394,Ashley,2018,December,Tuesday,lip gloss,6,16.41236582,south
+395,Betsy,2018,May,Saturday,lipstick,56,169.2751547,midwest
+396,Jen,2018,December,Friday,eye liner,53,161.3254656,midwest
+397,Cristina,2018,May,Wednesday,lip gloss,62,187.7199355,south
+398,Ashley,2019,March,Wednesday,mascara,90,271.3051978,midwest
+399,Ashley,2018,January,Thursday,eye liner,30,92.29332412,midwest
+400,Colleen,2019,February,Monday,foundation,36,110.3939125,east
+401,Cristina,2019,March,Tuesday,eye liner,76,230.1191177,west
+402,Emilee,2019,April,Sunday,lip gloss,4,10.04585241,south
+403,Colleen,2018,December,Friday,lipstick,26,80.06728671,midwest
+404,Cristina,2019,May,Friday,lip gloss,5,12.79984302,west
+405,Zaret,2018,May,Tuesday,foundation,44,133.9203142,midwest
+406,Colleen,2018,February,Tuesday,mascara,91,274.8112737,south
+407,Emilee,2018,March,Wednesday,lip gloss,78,235.9859534,west
+408,Jen,2020,May,Monday,lip gloss,69,208.5896279,midwest
+409,Betsy,2018,October,Saturday,mascara,74,224.0430548,east
+410,Zaret,2019,July,Friday,foundation,71,215.1240252,south
+411,Betsy,2020,September,Saturday,lipstick,34,103.8493959,midwest
+412,Jen,2019,June,Saturday,mascara,93,281.1705442,south
+413,Hallagan,2019,February,Friday,foundation,60,182.6095997,west
+414,Cici,2018,April,Friday,foundation,37,112.4339772,midwest
+415,Jen,2018,June,Monday,eye liner,26,79.91380433,south
+416,Zaret,2019,July,Thursday,eye liner,2,8.539755534,east
+417,Cristina,2019,September,Monday,foundation,9,25.92045376,east
+418,Betsy,2020,February,Thursday,foundation,46,139.6875306,west
+419,Cristina,2018,March,Wednesday,mascara,0,2.347047755,midwest
+420,Hallagan,2018,November,Monday,foundation,79,239.2208515,east
+421,Ashley,2019,January,Wednesday,foundation,48,146.5069786,midwest
+422,Zaret,2020,January,Saturday,eye liner,77,233.0800911,west
+423,Jen,2020,February,Sunday,foundation,10,26.96793279,east
+424,Betsy,2019,August,Tuesday,lipstick,45,137.2316367,west
+425,Colleen,2019,January,Sunday,foundation,17,53.5657932,east
+426,Jen,2019,August,Saturday,eye liner,4,10.36408331,south
+427,Zaret,2020,December,Sunday,mascara,43,130.8035004,west
+428,Colleen,2018,October,Tuesday,eye liner,41,125.1893753,west
+429,Jen,2020,June,Saturday,lipstick,4,9.876244634,midwest
+430,Emilee,2018,September,Monday,foundation,6,20.38821532,south
+431,Ashley,2020,May,Thursday,foundation,8,25.12446579,east
+432,Hallagan,2018,July,Friday,eye liner,43,131.2032624,west
+433,Betsy,2018,June,Sunday,eye liner,47,142.6730573,south
+434,Hallagan,2020,August,Friday,lip gloss,13,41.34446714,south
+435,Jen,2020,January,Wednesday,foundation,9,28.80424049,west
+436,Betsy,2018,February,Saturday,eye liner,22,67.51004792,east
+437,Zaret,2020,March,Friday,eye liner,87,263.0687729,south
+438,Cristina,2020,October,Monday,foundation,15,46.29725214,west
+439,Cici,2020,October,Monday,eye liner,27,83.40761478,west
+440,Colleen,2020,April,Sunday,lipstick,78,236.444262,midwest
+441,Cici,2019,March,Saturday,mascara,27,82.99777731,south
+442,Cici,2018,January,Monday,foundation,19,59.62186555,east
+443,Ashley,2018,February,Tuesday,mascara,0,2.370519951,west
+444,Betsy,2018,December,Friday,eye liner,30,91.96962159,south
+445,Cristina,2020,August,Monday,lipstick,17,52.93857954,midwest
+446,Hallagan,2019,June,Saturday,lip gloss,36,109.9514443,south
+447,Hallagan,2020,January,Saturday,foundation,4,10.2429382,south
+448,Cici,2018,January,Thursday,mascara,4,14.17038085,east
+449,Ashley,2018,June,Sunday,eye liner,81,244.9749987,east
+450,Cristina,2018,December,Tuesday,eye liner,87,263.8303785,south
+451,Betsy,2018,February,Friday,eye liner,13,40.50783178,south
+452,Zaret,2018,May,Tuesday,lip gloss,48,145.8469104,east
+453,Betsy,2019,September,Monday,lipstick,2,7.098133187,west
+454,Jen,2018,June,Thursday,lip gloss,32,98.36664797,east
+455,Ashley,2019,August,Wednesday,lip gloss,13,41.16877365,west
+456,Cici,2020,September,Sunday,mascara,94,283.4525142,west
+457,Jen,2020,March,Monday,mascara,63,190.8372495,east
+458,Zaret,2020,June,Tuesday,foundation,45,136.9794265,west
+459,Colleen,2019,April,Sunday,mascara,71,214.7689878,south
+460,Colleen,2018,April,Friday,mascara,74,224.1823885,east
+461,Ashley,2018,January,Monday,mascara,48,145.6495134,west
+462,Cristina,2018,February,Saturday,lip gloss,63,191.1884164,east
+463,Colleen,2019,April,Thursday,lip gloss,48,145.691275,west
+464,Hallagan,2020,August,Tuesday,mascara,26,80.61442687,midwest
+465,Ashley,2020,June,Tuesday,eye liner,58,176.2652005,south
+466,Zaret,2020,February,Sunday,lip gloss,2,8.747949407,midwest
+467,Colleen,2020,August,Monday,lip gloss,36,109.67661,midwest
+468,Cici,2019,June,Sunday,mascara,22,68.35507479,east
+469,Cici,2019,August,Tuesday,lip gloss,92,277.6668052,midwest
+470,Betsy,2018,October,Tuesday,foundation,29,88.71358947,east
+471,Ashley,2020,October,Thursday,lip gloss,42,128.1707509,south
+472,Cristina,2018,April,Friday,lip gloss,25,77.31570652,south
+473,Colleen,2019,March,Saturday,foundation,40,122.5392817,midwest
+474,Cici,2018,May,Tuesday,lip gloss,3,10.57088306,south
+475,Betsy,2019,July,Monday,foundation,1,0.821789941,south
+476,Ashley,2020,September,Saturday,foundation,12,37.68610106,east
+477,Cici,2018,June,Thursday,eye liner,0,2.001360017,south
+478,Hallagan,2020,February,Sunday,lip gloss,35,106.2634708,south
+479,Emilee,2019,May,Tuesday,foundation,2,7.681747777,east
+480,Zaret,2020,May,Monday,lipstick,10,31.78515542,east
+481,Jen,2019,October,Friday,eye liner,6,19.73354536,midwest
+482,Jen,2018,March,Wednesday,lip gloss,4,14.10456918,west
+483,Cici,2020,October,Thursday,mascara,91,274.9203205,east
+484,Jen,2020,July,Wednesday,lip gloss,12,37.87722641,east
+485,Zaret,2018,November,Sunday,foundation,21,65.28142315,west
+486,Jen,2019,March,Wednesday,mascara,44,134.3145489,west
+487,Betsy,2019,January,Sunday,eye liner,75,227.0986724,west
+488,Betsy,2018,July,Tuesday,eye liner,37,112.9969223,south
+489,Zaret,2020,July,Thursday,eye liner,58,176.0659899,midwest
+490,Jen,2020,February,Sunday,eye liner,74,223.6087851,south
+491,Hallagan,2018,June,Sunday,foundation,64,193.5494719,south
+492,Betsy,2019,November,Sunday,lipstick,53,160.4611321,south
+493,Ashley,2018,April,Friday,eye liner,1,0.450033056,midwest
+494,Ashley,2020,March,Monday,mascara,21,65.06546055,west
+495,Jen,2020,February,Thursday,mascara,90,271.3377044,east
+496,Jen,2019,October,Tuesday,lipstick,61,184.8282245,midwest
+497,Betsy,2019,May,Friday,mascara,64,193.9812544,east
+498,Zaret,2020,March,Monday,eye liner,79,238.6089526,east
+499,Zaret,2020,May,Thursday,foundation,11,34.58035026,west
+500,Colleen,2020,June,Tuesday,mascara,17,52.99217833,midwest
+501,Colleen,2020,October,Thursday,lip gloss,10,28.50743786,east
+502,Cristina,2018,May,Tuesday,mascara,61,185.381512,south
+503,Ashley,2019,July,Thursday,eye liner,81,245.1913841,west
+504,Colleen,2018,December,Tuesday,mascara,86,259.650619,east
+505,Cristina,2018,June,Monday,eye liner,6,16.59820945,east
+506,Jen,2019,September,Thursday,lipstick,75,226.2910811,west
+507,Zaret,2019,July,Monday,mascara,87,262.4966018,west
+508,Cici,2020,July,Sunday,foundation,15,47.14326289,west
+509,Jen,2019,March,Saturday,lipstick,6,20.04283816,east
+510,Zaret,2018,February,Saturday,eye liner,4,14.01228554,east
+511,Jen,2020,April,Saturday,eye liner,56,169.2487772,west
+512,Betsy,2018,May,Tuesday,foundation,76,230.1804612,south
+513,Hallagan,2019,July,Thursday,lipstick,27,82.59914393,south
+514,Betsy,2019,December,Monday,foundation,58,175.7718162,south
+515,Jen,2018,February,Tuesday,lipstick,67,202.6222612,east
+516,Colleen,2019,September,Sunday,lip gloss,79,238.7859456,south
+517,Cristina,2018,September,Monday,mascara,38,116.6859874,south
+518,Betsy,2018,March,Thursday,mascara,4,13.64163524,south
+519,Zaret,2020,March,Friday,eye liner,45,137.0687363,south
+520,Betsy,2018,May,Saturday,foundation,10,32.19489999,west
+521,Hallagan,2019,November,Saturday,foundation,86,260.3971787,midwest
+522,Cici,2020,May,Thursday,foundation,75,226.7144382,west
+523,Emilee,2019,March,Saturday,eye liner,77,232.4963052,west
+524,Emilee,2018,March,Sunday,eye liner,10,31.81813213,west
+525,Cristina,2018,October,Tuesday,foundation,62,188.3808824,west
+526,Betsy,2018,January,Monday,lip gloss,73,221.2921485,east
+527,Jen,2018,January,Thursday,foundation,62,187.2335256,south
+528,Zaret,2020,June,Saturday,mascara,11,35.72324129,east
+529,Hallagan,2019,December,Monday,mascara,28,86.07822334,south
+530,Hallagan,2018,August,Sunday,mascara,57,172.3620871,west
+531,Cici,2018,December,Friday,eye liner,34,103.4937406,south
+532,Jen,2019,October,Friday,eye liner,89,267.8641502,west
+533,Hallagan,2018,September,Friday,lip gloss,32,97.88934864,midwest
+534,Zaret,2020,November,Saturday,eye liner,38,116.0445877,east
+535,Cristina,2019,August,Saturday,lip gloss,82,248.0470769,east
+536,Jen,2018,May,Wednesday,foundation,29,89.29468736,south
+537,Emilee,2020,September,Sunday,lipstick,17,52.24619733,west
+538,Hallagan,2018,August,Wednesday,eye liner,50,151.865259,east
+539,Colleen,2018,March,Thursday,lipstick,7,22.95994806,east
+540,Ashley,2019,March,Saturday,lip gloss,50,151.361824,east
+541,Cristina,2019,February,Friday,lipstick,20,61.87867885,midwest
+542,Jen,2019,February,Friday,foundation,37,112.8336337,east
+543,Zaret,2018,August,Thursday,mascara,58,176.6097114,east
+544,Colleen,2020,January,Saturday,foundation,25,76.92028313,south
+545,Hallagan,2018,March,Thursday,eye liner,34,103.1820816,midwest
+546,Betsy,2020,October,Monday,foundation,3,11.58207294,midwest
+547,Betsy,2020,September,Sunday,lipstick,63,190.5852181,east
+548,Betsy,2020,January,Tuesday,eye liner,44,133.6150824,midwest
+549,Cici,2018,April,Monday,eye liner,87,263.1628326,midwest
+550,Jen,2019,February,Friday,lipstick,4,14.19109504,south
+551,Ashley,2020,April,Wednesday,foundation,93,281.1707263,midwest
+552,Cristina,2018,November,Monday,lipstick,10,32.0650905,east
+553,Zaret,2020,December,Sunday,mascara,19,58.97212617,east
+554,Hallagan,2019,July,Monday,eye liner,30,92.52763084,south
+555,Ashley,2020,November,Tuesday,mascara,1,1.278237266,south
+556,Jen,2020,April,Sunday,eye liner,46,139.4116265,east
+557,Cristina,2018,August,Thursday,foundation,44,133.5087774,midwest
+558,Betsy,2018,October,Wednesday,eye liner,47,143.2122153,midwest
+559,Jen,2020,September,Saturday,eye liner,86,260.3915726,east
+560,Jen,2020,July,Thursday,foundation,76,229.9634798,midwest
+561,Zaret,2018,March,Thursday,mascara,55,166.9902989,west
+562,Ashley,2018,May,Wednesday,eye liner,1,0.792897983,south
+563,Ashley,2018,July,Tuesday,mascara,62,187.6336171,west
+564,Ashley,2018,January,Monday,foundation,73,220.965158,midwest
+565,Hallagan,2018,November,Sunday,lipstick,12,38.43875396,west
+566,Emilee,2018,August,Sunday,mascara,0,1.599406035,west
+567,Cici,2020,August,Friday,eye liner,23,71.39535724,west
+568,Cici,2019,January,Sunday,eye liner,73,220.8077847,midwest
+569,Jen,2019,June,Saturday,lip gloss,73,221.7811281,west
+570,Emilee,2019,March,Saturday,foundation,43,131.0580958,south
+571,Hallagan,2020,July,Thursday,lipstick,60,182.2924607,east
+572,Emilee,2020,December,Wednesday,lip gloss,40,121.8660285,midwest
+573,Jen,2019,July,Friday,lip gloss,7,18.91552292,midwest
+574,Betsy,2018,September,Friday,foundation,39,118.3657732,midwest
+575,Colleen,2018,December,Saturday,mascara,84,253.7903341,west
+576,Jen,2020,April,Sunday,lipstick,92,277.8091138,west
+577,Hallagan,2019,September,Monday,mascara,68,206.083186,south
+578,Hallagan,2018,November,Sunday,lip gloss,7,23.19258327,east
+579,Zaret,2020,October,Thursday,eye liner,9,24.83623714,south
+580,Cici,2019,October,Friday,mascara,51,154.4006513,midwest
+581,Hallagan,2019,November,Sunday,lip gloss,59,178.8973168,south
+582,Cristina,2019,November,Saturday,mascara,64,194.4415113,west
+583,Cici,2019,November,Wednesday,lip gloss,0,2.516330534,east
+584,Jen,2019,February,Monday,mascara,81,243.8159021,midwest
+585,Emilee,2019,April,Sunday,lipstick,93,280.7978116,midwest
+586,Cici,2020,January,Wednesday,lip gloss,20,61.96742485,south
+587,Ashley,2019,June,Saturday,eye liner,39,119.9083594,east
+588,Cristina,2018,October,Wednesday,foundation,6,20.01833198,south
+589,Cristina,2018,February,Tuesday,foundation,34,103.6794287,south
+590,Hallagan,2020,January,Wednesday,lip gloss,33,101.3110181,west
+591,Ashley,2018,January,Thursday,lipstick,10,28.46388587,west
+592,Cici,2020,August,Monday,eye liner,47,141.9714066,midwest
+593,Emilee,2018,January,Thursday,foundation,94,284.6127607,east
+594,Hallagan,2020,May,Friday,foundation,92,278.2264092,midwest
+595,Colleen,2019,January,Wednesday,lip gloss,68,205.9590553,south
+596,Jen,2018,March,Sunday,lip gloss,37,112.8515191,midwest
+597,Emilee,2018,July,Tuesday,eye liner,78,235.3714403,south
+598,Hallagan,2020,December,Wednesday,eye liner,14,43.75601314,east
+599,Cici,2020,October,Friday,foundation,33,100.5495848,east
+600,Emilee,2018,June,Thursday,eye liner,64,194.1818819,west
+601,Zaret,2020,August,Monday,lip gloss,6,20.22970382,south
+602,Cici,2020,May,Friday,lipstick,65,197.4890683,west
+603,Betsy,2018,January,Thursday,mascara,24,74.2830895,south
+604,Colleen,2019,December,Monday,lipstick,89,269.008885,midwest
+605,Colleen,2019,September,Monday,mascara,94,284.2498752,east
+606,Zaret,2019,December,Thursday,foundation,67,203.7131527,south
+607,Colleen,2018,August,Wednesday,mascara,7,23.43437289,south
+608,Colleen,2018,September,Friday,foundation,58,176.003113,east
+609,Jen,2018,June,Thursday,mascara,77,232.6682153,midwest
+610,Zaret,2019,September,Sunday,eye liner,50,151.123277,east
+611,Betsy,2020,August,Monday,lip gloss,10,32.13986618,south
+612,Hallagan,2019,August,Wednesday,mascara,2,7.780506694,west
+613,Ashley,2020,July,Thursday,mascara,17,53.69213881,east
+614,Cristina,2019,April,Monday,mascara,90,272.4138913,midwest
+615,Hallagan,2020,November,Saturday,foundation,58,175.5906434,south
+616,Cristina,2020,January,Saturday,mascara,66,199.926907,midwest
+617,Jen,2018,June,Monday,eye liner,6,20.24222298,midwest
+618,Colleen,2020,April,Wednesday,lip gloss,90,272.5871859,south
+619,Colleen,2020,May,Monday,lip gloss,38,115.8579914,west
+620,Cristina,2018,October,Tuesday,mascara,3,10.9076553,midwest
+621,Emilee,2018,April,Monday,foundation,4,10.39215956,midwest
+622,Ashley,2018,June,Thursday,eye liner,8,25.89968015,west
+623,Colleen,2018,March,Thursday,mascara,8,22.23218549,west
+624,Hallagan,2018,September,Friday,mascara,72,218.6877788,midwest
+625,Jen,2020,January,Saturday,eye liner,83,250.6659025,west
+626,Zaret,2020,May,Friday,foundation,12,38.9775882,west
+627,Colleen,2020,May,Monday,foundation,8,21.53326034,south
+628,Betsy,2020,February,Sunday,eye liner,22,68.12964121,west
+629,Cristina,2020,October,Friday,mascara,2,3.829528774,west
+630,Hallagan,2020,January,Tuesday,foundation,55,166.7710642,south
+631,Jen,2020,June,Saturday,eye liner,40,122.5516637,west
+632,Betsy,2019,June,Sunday,foundation,61,183.9597681,midwest
+633,Hallagan,2019,June,Wednesday,eye liner,40,122.5410789,south
+634,Jen,2020,September,Saturday,eye liner,31,94.68392542,midwest
+635,Betsy,2018,April,Friday,mascara,6,20.45460726,midwest
+636,Hallagan,2019,October,Tuesday,foundation,6,16.10065862,south
+637,Hallagan,2019,July,Thursday,eye liner,14,43.3962161,midwest
+638,Hallagan,2018,July,Saturday,mascara,94,283.8751904,east
+639,Jen,2019,July,Friday,mascara,70,212.2686379,east
+640,Emilee,2018,November,Sunday,lip gloss,8,21.44176526,south
+641,Emilee,2020,October,Friday,lip gloss,8,21.90881602,south
+642,Ashley,2019,December,Friday,mascara,2,7.641601437,midwest
+643,Hallagan,2017,December,Sunday,lipstick,10,31.84218807,south
+644,Cici,2019,April,Monday,eye liner,51,154.531757,south
+645,Cici,2018,March,Thursday,eye liner,5,16.8537951,south
+646,Emilee,2020,May,Friday,eye liner,39,119.4883504,south
+647,Ashley,2018,March,Sunday,eye liner,20,61.92623963,west
+648,Emilee,2018,November,Monday,foundation,29,88.79031532,south
+649,Zaret,2020,January,Wednesday,foundation,43,130.5955039,midwest
+650,Ashley,2018,August,Thursday,mascara,40,122.3417765,midwest
+651,Emilee,2020,February,Sunday,foundation,36,109.4092426,south
+652,Emilee,2019,January,Sunday,eye liner,88,265.7031233,south
+653,Betsy,2019,January,Thursday,mascara,55,166.4317325,south
+654,Jen,2018,December,Tuesday,eye liner,65,196.8647879,west
+655,Jen,2019,July,Thursday,lip gloss,6,19.48899294,west
+656,Cici,2020,May,Monday,foundation,1,1.229970795,midwest
+657,Jen,2020,September,Wednesday,foundation,32,97.808768,south
+658,Hallagan,2020,January,Saturday,mascara,17,53.06101649,south
+659,Zaret,2018,July,Friday,eye liner,25,76.37860249,east
+660,Zaret,2019,March,Wednesday,eye liner,11,35.75348039,east
+661,Zaret,2018,February,Tuesday,mascara,51,155.0195365,south
+662,Emilee,2020,October,Friday,lipstick,25,78.06843611,west
+663,Hallagan,2020,November,Tuesday,eye liner,27,82.45085106,east
+664,Betsy,2019,June,Wednesday,lip gloss,38,116.7885336,west
+665,Cristina,2020,September,Wednesday,foundation,27,82.56970261,midwest
+666,Jen,2020,June,Tuesday,eye liner,59,178.6321577,west
+667,Cici,2020,February,Sunday,foundation,73,220.4479276,west
+668,Colleen,2019,August,Wednesday,eye liner,43,131.4549753,midwest
+669,Cristina,2020,July,Wednesday,mascara,51,154.7781945,west
+670,Betsy,2018,September,Monday,lip gloss,32,98.00698757,midwest
+671,Zaret,2020,April,Saturday,lip gloss,89,268.5882936,midwest
+672,Jen,2019,November,Sunday,mascara,1,0.610477434,east
+673,Hallagan,2020,March,Friday,eye liner,26,81.0864025,east
+674,Jen,2019,February,Friday,foundation,56,170.2888048,midwest
+675,Betsy,2018,August,Sunday,lip gloss,10,32.44609901,midwest
+676,Hallagan,2018,February,Friday,lipstick,8,25.63945706,east
+677,Colleen,2019,April,Monday,eye liner,75,226.8135981,south
+678,Jen,2019,January,Thursday,foundation,79,239.4766386,east
+679,Colleen,2019,May,Friday,foundation,25,75.94418767,south
+680,Cristina,2020,October,Thursday,lip gloss,22,68.8143905,east
+681,Betsy,2018,September,Monday,lipstick,88,265.6416698,west
+682,Emilee,2018,November,Sunday,foundation,94,284.3289927,midwest
+683,Jen,2019,September,Monday,mascara,58,176.7259385,south
+684,Emilee,2019,June,Saturday,lip gloss,66,200.2083002,south
+685,Jen,2020,August,Monday,eye liner,82,247.9354607,west
+686,Hallagan,2020,September,Sunday,foundation,94,283.7655669,south
+687,Ashley,2020,December,Thursday,lip gloss,27,82.88317362,west
+688,Betsy,2018,April,Monday,lipstick,56,169.9565867,midwest
+689,Emilee,2020,April,Wednesday,mascara,82,247.8009491,south
+690,Emilee,2019,September,Sunday,mascara,7,23.06771431,south
+691,Betsy,2020,January,Tuesday,lip gloss,25,77.367216,west
+692,Ashley,2020,December,Thursday,foundation,15,46.80897014,south
+693,Jen,2018,October,Tuesday,foundation,39,118.8206861,south
+694,Betsy,2019,September,Monday,lip gloss,22,67.92092105,midwest
+695,Zaret,2019,March,Saturday,lipstick,0,1.580294052,west
+696,Betsy,2018,July,Tuesday,mascara,47,142.625667,south
+697,Jen,2020,March,Monday,lipstick,36,110.2585155,east
+698,Jen,2018,September,Monday,eye liner,46,139.5284711,west
+699,Emilee,2020,April,Sunday,eye liner,84,253.6825853,east
+700,Cristina,2018,March,Sunday,lip gloss,38,115.7650465,east
+701,Betsy,2018,May,Wednesday,lip gloss,13,40.4735062,east
+702,Emilee,2020,April,Wednesday,foundation,40,122.4218045,midwest
+703,Colleen,2018,June,Thursday,lipstick,46,139.4072221,midwest
+704,Cici,2018,July,Saturday,eye liner,11,35.10522212,east
+705,Ashley,2019,June,Wednesday,lip gloss,1,0.898225896,west
+706,Ashley,2018,March,Wednesday,lip gloss,32,98.6185495,east
+707,Cici,2018,January,Thursday,foundation,78,235.3774636,midwest
+708,Ashley,2019,January,Sunday,lipstick,71,215.1433462,east
+709,Colleen,2018,April,Friday,lip gloss,36,109.7994109,midwest
+710,Jen,2018,August,Sunday,mascara,79,238.752891,west
+711,Ashley,2019,August,Tuesday,lipstick,92,278.3368932,west
+712,Hallagan,2018,January,Thursday,foundation,38,116.2022613,midwest
+713,Betsy,2020,December,Wednesday,mascara,50,152.0846801,east
+714,Cristina,2020,February,Thursday,foundation,31,93.73408354,west
+715,Jen,2020,June,Tuesday,lip gloss,9,29.38609867,east
+716,Hallagan,2019,February,Friday,eye liner,24,73.27888606,west
+717,Ashley,2019,January,Wednesday,lip gloss,50,152.5860856,west
+718,Jen,2020,February,Sunday,lipstick,32,98.19198388,west
+719,Cici,2018,September,Monday,foundation,71,214.9278284,south
+720,Cristina,2020,October,Friday,mascara,28,86.1072036,south
+721,Ashley,2020,October,Monday,lip gloss,40,121.8314663,east
+722,Cristina,2018,January,Thursday,eye liner,75,226.9871157,east
+723,Zaret,2018,August,Sunday,lip gloss,30,92.03062567,midwest
+724,Jen,2019,December,Thursday,lip gloss,78,235.897183,south
+725,Colleen,2019,August,Tuesday,mascara,15,47.09802134,south
+726,Cristina,2018,November,Sunday,lipstick,30,91.80098994,west
+727,Zaret,2019,September,Monday,foundation,27,83.56441775,west
+728,Hallagan,2020,June,Tuesday,lip gloss,95,286.6842166,midwest
+729,Jen,2018,February,Tuesday,foundation,62,188.6997932,south
+730,Cristina,2020,March,Friday,lip gloss,4,10.15141308,west
+731,Betsy,2018,July,Tuesday,mascara,3,7.226376292,west
+732,Hallagan,2019,July,Thursday,mascara,62,187.7148472,midwest
+733,Betsy,2018,August,Wednesday,lipstick,92,277.6765791,midwest
+734,Zaret,2020,December,Sunday,foundation,35,107.0951994,south
+735,Betsy,2019,April,Monday,eye liner,91,274.9627164,west
+736,Cristina,2018,July,Friday,mascara,21,64.32188429,south
+737,Colleen,2020,January,Saturday,mascara,49,148.7389315,south
+738,Zaret,2019,March,Saturday,foundation,34,103.3484344,midwest
+739,Hallagan,2019,January,Sunday,lip gloss,56,170.1212435,east
+740,Cristina,2018,May,Wednesday,eye liner,81,244.8542144,west
+741,Betsy,2018,April,Monday,eye liner,63,191.2465604,west
+742,Cristina,2019,April,Monday,foundation,3,7.365785003,midwest
+743,Colleen,2019,July,Thursday,foundation,8,25.81066669,east
+744,Jen,2018,March,Thursday,lip gloss,46,139.616333,west
+745,Colleen,2019,February,Monday,lip gloss,3,10.87686298,south
+746,Colleen,2020,May,Monday,foundation,68,205.8603977,west
+747,Betsy,2020,April,Wednesday,foundation,83,251.062831,east
+748,Cristina,2019,February,Monday,eye liner,51,155.1234192,west
+749,Cici,2020,April,Wednesday,foundation,16,50.20353875,west
+750,Cici,2020,May,Thursday,eye liner,2,3.913562783,south
+751,Cristina,2018,November,Monday,lip gloss,6,20.37042403,south
+752,Colleen,2019,October,Tuesday,lip gloss,5,12.57170178,east
+753,Betsy,2020,January,Saturday,eye liner,42,127.7112318,south
+754,Cristina,2019,January,Wednesday,eye liner,47,143.3840946,midwest
+755,Hallagan,2020,July,Thursday,mascara,16,50.19386299,west
+756,Cici,2018,May,Saturday,lip gloss,11,35.3561964,west
+757,Betsy,2018,November,Monday,eye liner,10,27.89676055,east
+758,Ashley,2018,March,Wednesday,eye liner,21,65.37919558,south
+759,Cici,2019,October,Tuesday,mascara,52,157.725965,east
+760,Cristina,2018,April,Monday,lipstick,5,17.00512005,south
+761,Cristina,2019,July,Friday,eye liner,52,158.434476,midwest
+762,Colleen,2019,March,Wednesday,mascara,38,115.388896,south
+763,Emilee,2020,May,Thursday,mascara,84,254.2621659,east
+764,Cici,2020,December,Wednesday,lipstick,18,55.34342844,south
+765,Jen,2018,May,Tuesday,lip gloss,6,15.74282976,west
+766,Cici,2018,March,Thursday,lip gloss,5,16.91354163,west
+767,Colleen,2020,December,Wednesday,foundation,59,178.8959736,south
+768,Colleen,2019,June,Sunday,mascara,1,1.431724218,east
+769,Jen,2019,January,Sunday,lipstick,12,37.85449636,east
+770,Colleen,2018,March,Sunday,lipstick,25,76.80845834,east
+771,Cristina,2019,June,Sunday,mascara,33,101.4241831,east
+772,Betsy,2018,February,Saturday,mascara,12,37.88703805,west
+773,Emilee,2019,August,Tuesday,eye liner,52,158.3077205,east
+774,Jen,2019,March,Wednesday,eye liner,34,103.6231618,west
+775,Cristina,2019,July,Friday,foundation,66,200.65881,south
+776,Cristina,2018,July,Saturday,lipstick,10,31.85324727,south
+777,Cici,2018,February,Saturday,foundation,5,12.54762748,midwest
+778,Ashley,2019,August,Tuesday,mascara,89,269.48919,south
+779,Cici,2019,April,Sunday,foundation,5,16.81820636,south
+780,Jen,2020,October,Thursday,mascara,48,145.985164,midwest
+781,Betsy,2020,December,Wednesday,mascara,36,109.9239744,midwest
+782,Cristina,2020,November,Tuesday,mascara,80,241.9974152,west
+783,Betsy,2020,November,Saturday,lip gloss,64,193.8910819,west
+784,Betsy,2019,October,Friday,foundation,51,155.4998168,east
+785,Ashley,2019,April,Sunday,eye liner,92,278.3402039,east
+786,Cici,2019,April,Thursday,eye liner,93,280.8557576,midwest
+787,Jen,2019,January,Thursday,foundation,36,110.4811674,west
+788,Ashley,2020,October,Thursday,lip gloss,9,24.82690497,midwest
+789,Jen,2019,May,Tuesday,lip gloss,48,146.2328702,west
+790,Cici,2019,November,Wednesday,eye liner,11,34.54792782,east
+791,Cici,2018,July,Tuesday,lipstick,8,25.45361882,west
+792,Colleen,2018,April,Monday,foundation,36,110.091719,east
+793,Cici,2019,November,Saturday,mascara,93,280.7797629,west
+794,Hallagan,2018,April,Monday,lip gloss,39,119.2028408,east
+795,Hallagan,2018,May,Wednesday,eye liner,72,218.0772887,south
+796,Emilee,2020,March,Monday,lip gloss,3,10.41617642,midwest
+797,Zaret,2018,December,Saturday,mascara,47,142.8388636,east
+798,Cristina,2020,December,Thursday,mascara,72,217.3244513,west
+799,Colleen,2020,December,Wednesday,mascara,26,79.7485892,midwest
+800,Zaret,2018,October,Tuesday,eye liner,47,142.4875548,south
+801,Cristina,2020,January,Tuesday,lip gloss,14,43.40382473,east
+802,Zaret,2019,June,Sunday,mascara,71,215.0758231,south
+803,Hallagan,2020,August,Friday,foundation,95,287.7973826,midwest
+804,Cici,2020,March,Monday,mascara,37,112.7791974,south
+805,Hallagan,2019,December,Thursday,lip gloss,1,0.391175144,east
+806,Emilee,2020,August,Friday,eye liner,26,80.20858983,midwest
+807,Zaret,2017,December,Sunday,eye liner,67,203.5429904,east
+808,Emilee,2018,February,Tuesday,lip gloss,15,47.19835148,midwest
+809,Jen,2020,February,Thursday,lip gloss,73,221.3361235,south
+810,Jen,2018,October,Tuesday,mascara,13,40.89987545,west
+811,Emilee,2018,March,Sunday,foundation,76,229.5581215,east
+812,Cici,2018,June,Sunday,eye liner,9,24.93308292,south
+813,Colleen,2019,June,Saturday,lipstick,36,109.5332822,west
+814,Ashley,2018,May,Wednesday,foundation,11,35.5218051,south
+815,Colleen,2020,January,Saturday,lip gloss,73,220.5004979,east
+816,Jen,2018,October,Saturday,lipstick,93,280.2654489,south
+817,Betsy,2020,April,Saturday,foundation,69,209.3167095,east
+818,Hallagan,2018,April,Monday,eye liner,86,259.4849369,midwest
+819,Betsy,2020,May,Friday,mascara,54,164.3793897,south
+820,Cristina,2019,April,Thursday,mascara,2,4.040363555,midwest
+821,Zaret,2020,September,Wednesday,foundation,83,250.1653363,west
+822,Cici,2019,October,Friday,mascara,2,8.001218418,west
+823,Colleen,2020,August,Friday,eye liner,54,164.1496286,midwest
+824,Hallagan,2018,March,Thursday,foundation,76,230.4194381,east
+825,Betsy,2019,August,Wednesday,eye liner,10,32.25056759,midwest
+826,Jen,2020,October,Thursday,foundation,81,245.0393615,west
+827,Jen,2020,September,Wednesday,eye liner,83,251.1406071,midwest
+828,Zaret,2020,October,Friday,foundation,6,19.52237023,south
+829,Colleen,2020,November,Tuesday,mascara,77,233.1563187,east
+830,Jen,2020,March,Tuesday,mascara,41,125.2839719,west
+831,Ashley,2020,December,Wednesday,lip gloss,80,241.7073588,south
+832,Zaret,2020,May,Monday,eye liner,20,62.21009786,east
+833,Emilee,2018,January,Monday,eye liner,31,95.32719665,midwest
+834,Hallagan,2020,January,Tuesday,foundation,34,103.8965431,east
+835,Ashley,2019,August,Wednesday,foundation,2,8.03425147,west
+836,Jen,2020,February,Sunday,foundation,17,53.33183842,south
+837,Emilee,2020,May,Friday,eye liner,16,50.31089448,south
+838,Cristina,2020,March,Monday,foundation,54,163.701979,west
+839,Zaret,2018,February,Tuesday,lip gloss,9,24.92199993,east
+840,Zaret,2020,April,Sunday,eye liner,94,284.5357532,west
+841,Jen,2018,August,Thursday,foundation,3,7.449711404,midwest
+842,Cristina,2018,November,Sunday,mascara,9,28.83080994,west
+843,Hallagan,2018,March,Sunday,foundation,25,77.10820341,east
+844,Ashley,2020,October,Monday,lip gloss,29,89.3105459,south
+845,Cici,2018,August,Sunday,eye liner,37,113.2132346,east
+846,Zaret,2019,June,Sunday,foundation,19,59.00376048,west
+847,Cristina,2018,April,Monday,lip gloss,28,86.04518511,midwest
+848,Jen,2018,June,Sunday,eye liner,18,55.85854948,west
+849,Ashley,2020,May,Friday,lipstick,84,254.0430251,south
+850,Emilee,2018,October,Saturday,foundation,79,238.8274396,west
+851,Cici,2018,November,Sunday,foundation,31,94.9729612,midwest
+852,Jen,2020,July,Thursday,lipstick,34,103.3986361,east
+853,Cici,2019,November,Wednesday,mascara,66,201.255368,south
+854,Emilee,2020,May,Monday,mascara,44,134.4498586,east
+855,Betsy,2019,January,Sunday,eye liner,94,284.419445,south
+856,Colleen,2018,April,Monday,foundation,11,35.29986069,east
+857,Hallagan,2018,August,Sunday,lip gloss,74,223.9745799,east
+858,Jen,2020,December,Wednesday,mascara,28,86.48556491,west
+859,Cristina,2019,June,Saturday,lip gloss,40,121.9218075,west
+860,Cristina,2018,February,Friday,lip gloss,34,104.1689154,south
+861,Betsy,2019,September,Sunday,eye liner,38,115.8518015,south
+862,Hallagan,2019,June,Wednesday,mascara,69,209.1433639,midwest
+863,Ashley,2019,August,Saturday,eye liner,34,103.9705832,midwest
+864,Betsy,2019,August,Tuesday,mascara,29,89.38394374,midwest
+865,Colleen,2018,February,Tuesday,foundation,10,27.72493905,midwest
+866,Cici,2018,October,Wednesday,lipstick,42,128.428704,midwest
+867,Zaret,2020,March,Friday,mascara,58,175.9742351,west
+868,Emilee,2018,March,Wednesday,foundation,27,83.01665014,midwest
+869,Cici,2020,July,Wednesday,eye liner,47,143.2742037,east
+870,Emilee,2018,February,Friday,foundation,29,88.69671633,south
+871,Cici,2020,May,Thursday,mascara,28,86.22642095,south
+872,Betsy,2020,September,Wednesday,eye liner,79,239.0577406,south
+873,Ashley,2018,November,Sunday,eye liner,41,124.8178641,east
+874,Emilee,2019,July,Thursday,lipstick,57,172.9618852,midwest
+875,Cici,2020,July,Sunday,lip gloss,45,137.6200229,west
+876,Jen,2020,March,Friday,mascara,91,274.9123022,west
+877,Emilee,2019,January,Sunday,mascara,49,149.0413131,west
+878,Betsy,2018,September,Friday,lip gloss,68,206.160978,west
+879,Colleen,2019,February,Monday,lipstick,38,116.644809,west
+880,Ashley,2020,September,Wednesday,foundation,4,15.20564325,south
+881,Emilee,2019,April,Sunday,mascara,45,137.0548403,east
+882,Cristina,2018,December,Friday,mascara,85,256.6581064,midwest
+883,Emilee,2019,July,Thursday,lipstick,57,173.05667,midwest
+884,Zaret,2019,November,Wednesday,mascara,3,6.363786129,east
+885,Cici,2020,August,Monday,foundation,9,24.85867023,midwest
+886,Zaret,2018,April,Friday,eye liner,86,260.2938191,midwest
+887,Jen,2019,March,Tuesday,foundation,11,35.04168436,east
+888,Colleen,2018,January,Thursday,mascara,87,262.7592489,midwest
+889,Colleen,2018,July,Saturday,eye liner,86,260.0091489,south
+890,Betsy,2020,January,Wednesday,lip gloss,62,187.8103462,west
+891,Emilee,2020,July,Sunday,mascara,80,241.8591743,west
+892,Colleen,2018,July,Tuesday,lipstick,11,34.78231483,south
+893,Colleen,2019,December,Thursday,lipstick,11,34.68082283,midwest
+894,Cici,2019,November,Saturday,eye liner,4,9.790402076,south
+895,Cristina,2018,December,Friday,lipstick,42,128.0261061,west
+896,Cristina,2018,June,Monday,lip gloss,51,154.7180072,south
+897,Colleen,2018,July,Tuesday,foundation,91,274.7721641,south
+898,Emilee,2020,August,Friday,lip gloss,24,73.40630731,west
+899,Emilee,2018,January,Monday,eye liner,19,59.1227308,midwest
+900,Colleen,2018,March,Sunday,lip gloss,80,241.7472334,midwest
+901,Betsy,2020,December,Wednesday,foundation,0,1.679690059,east
+902,Jen,2020,September,Sunday,foundation,69,209.1420392,east
+903,Emilee,2020,July,Sunday,mascara,84,253.7842131,midwest
+904,Hallagan,2019,August,Saturday,lipstick,31,94.75214346,west
+905,Zaret,2019,August,Wednesday,eye liner,11,35.27453709,south
+906,Ashley,2019,March,Wednesday,lip gloss,79,239.3445563,midwest
+907,Jen,2020,June,Saturday,eye liner,22,68.54903124,midwest
+908,Betsy,2019,January,Thursday,foundation,76,231.1298624,east
+909,Ashley,2018,October,Tuesday,eye liner,0,2.744417442,midwest
+910,Emilee,2019,March,Saturday,lip gloss,94,283.5622631,west
+911,Zaret,2018,November,Sunday,foundation,14,44.24570226,south
+912,Emilee,2020,July,Wednesday,mascara,57,172.6972424,west
+913,Jen,2019,April,Thursday,lip gloss,3,11.08284955,east
+914,Cici,2020,July,Wednesday,lip gloss,50,151.9595498,west
+915,Ashley,2020,June,Tuesday,eye liner,25,76.62456023,east
+916,Cristina,2019,August,Wednesday,foundation,46,140.2736912,south
+917,Zaret,2020,July,Sunday,lip gloss,19,58.73558056,east
+918,Emilee,2020,May,Monday,eye liner,6,20.0996291,west
+919,Jen,2020,July,Wednesday,lipstick,8,26.08486264,midwest
+920,Emilee,2020,January,Tuesday,mascara,2,3.730967687,midwest
+921,Zaret,2019,April,Sunday,lip gloss,80,240.6901053,east
+922,Jen,2019,April,Monday,foundation,19,58.90412142,south
+923,Betsy,2019,April,Sunday,lipstick,27,82.99409455,south
+924,Ashley,2018,February,Friday,mascara,79,239.4486965,west
+925,Jen,2020,January,Tuesday,foundation,57,173.3297047,south
+926,Cici,2019,December,Monday,lip gloss,47,143.6016514,east
+927,Cici,2018,November,Sunday,lip gloss,9,28.82709101,south
+928,Jen,2019,November,Sunday,lip gloss,65,196.8592538,midwest
+929,Zaret,2018,March,Wednesday,foundation,58,175.2226667,west
+930,Cici,2018,September,Monday,mascara,48,145.9379301,south
+931,Zaret,2019,October,Friday,foundation,75,226.6120164,east
+932,Cici,2020,January,Saturday,foundation,59,179.3748371,west
+933,Jen,2019,January,Sunday,mascara,34,104.4450326,midwest
+934,Zaret,2018,March,Thursday,lipstick,57,173.0675659,east
+935,Emilee,2020,March,Tuesday,lip gloss,62,187.8858443,south
+936,Cristina,2020,July,Wednesday,lipstick,17,53.04867701,south
+937,Ashley,2019,July,Friday,foundation,83,250.8243949,west
+938,Ashley,2018,July,Tuesday,lip gloss,56,169.8403728,east
+939,Hallagan,2018,February,Saturday,lip gloss,14,44.19432806,west
+940,Colleen,2018,December,Saturday,lipstick,9,24.56278224,west
+941,Betsy,2019,July,Monday,foundation,44,134.5034902,south
+942,Zaret,2018,February,Friday,eye liner,32,97.64978151,east
+943,Jen,2019,January,Wednesday,eye liner,85,256.9703706,east
+944,Betsy,2018,September,Friday,lip gloss,2,3.723356238,west
+945,Emilee,2019,January,Thursday,lipstick,31,94.43964532,south
+946,Cici,2018,August,Sunday,eye liner,7,19.82206236,south
+947,Colleen,2018,January,Monday,lipstick,1,0.287357847,midwest
+948,Ashley,2020,November,Saturday,lip gloss,6,20.39713581,east
+949,Cristina,2018,June,Sunday,foundation,13,41.83016997,west
+950,Ashley,2018,October,Wednesday,lip gloss,70,212.4551079,south
+951,Colleen,2018,June,Thursday,foundation,15,47.74943889,west
+952,Cristina,2020,April,Wednesday,mascara,18,56.25783263,south
+953,Cristina,2020,February,Thursday,eye liner,30,92.19647967,south
+954,Zaret,2020,October,Friday,mascara,17,53.0679533,east
+955,Zaret,2019,January,Wednesday,eye liner,1,1.454069356,midwest
+956,Jen,2019,March,Saturday,foundation,50,152.3171979,south
+957,Ashley,2019,December,Friday,lip gloss,83,251.0948967,east
+958,Emilee,2018,May,Tuesday,mascara,54,164.0817034,midwest
+959,Ashley,2019,April,Thursday,lip gloss,16,49.96808763,south
+960,Emilee,2020,September,Wednesday,lip gloss,53,160.9591462,east
+961,Cristina,2020,January,Tuesday,eye liner,95,286.7192294,west
+962,Ashley,2017,December,Sunday,mascara,74,224.1344883,south
+963,Colleen,2019,August,Saturday,mascara,11,35.12650717,midwest
+964,Hallagan,2020,September,Wednesday,foundation,63,191.0009201,west
+965,Betsy,2019,August,Wednesday,eye liner,53,161.2376802,east
+966,Zaret,2020,July,Thursday,lip gloss,1,5.281684035,south
+967,Cristina,2018,November,Thursday,foundation,24,74.30729541,midwest
+968,Zaret,2020,April,Saturday,lipstick,5,16.42275003,west
+969,Betsy,2019,February,Friday,lip gloss,35,107.3423799,east
+970,Betsy,2020,May,Monday,eye liner,33,100.6187201,south
+971,Emilee,2020,January,Wednesday,mascara,65,196.6363008,south
+972,Cici,2020,February,Sunday,mascara,52,158.3350601,east
+973,Cici,2020,August,Friday,mascara,44,133.4249833,east
+974,Ashley,2020,October,Thursday,lipstick,72,218.0571538,east
+975,Emilee,2018,September,Monday,mascara,13,41.13871235,east
+976,Zaret,2020,September,Saturday,foundation,16,50.1591862,south
+977,Cici,2020,February,Sunday,foundation,19,59.265314,west
+978,Zaret,2019,May,Friday,mascara,67,203.4349771,west
+979,Emilee,2020,February,Sunday,lip gloss,2,8.312286876,midwest
+980,Zaret,2020,May,Friday,mascara,28,85.78732099,south
+981,Colleen,2019,August,Saturday,foundation,6,15.85455907,midwest
+982,Ashley,2019,March,Wednesday,mascara,70,212.0317809,midwest
+983,Hallagan,2020,February,Thursday,lip gloss,65,197.1866309,south
+984,Emilee,2020,December,Thursday,foundation,39,119.0511829,east
+985,Hallagan,2020,August,Tuesday,foundation,72,218.1922927,west
+986,Betsy,2019,April,Monday,lipstick,47,142.5369415,west
+987,Emilee,2020,May,Thursday,lip gloss,94,283.5794352,east
+988,Betsy,2019,May,Friday,lip gloss,58,175.8230061,west
+989,Jen,2018,May,Saturday,eye liner,6,17.28882157,east
+990,Colleen,2018,February,Tuesday,eye liner,38,115.9616334,south
+991,Cristina,2018,January,Thursday,eye liner,1,1.016010813,midwest
+992,Jen,2019,November,Wednesday,eye liner,34,104.5791716,west
+993,Zaret,2018,March,Thursday,lip gloss,30,91.71732532,west
+994,Colleen,2018,May,Wednesday,foundation,62,187.4323854,south
+995,Betsy,2020,February,Sunday,lip gloss,24,74.2116699,east
+996,Colleen,2018,September,Monday,eye liner,4,13.65418896,west
+997,Emilee,2018,June,Sunday,lip gloss,88,265.2916292,west
+998,Emilee,2019,September,Monday,eye liner,78,235.6935638,east
+999,Ashley,2019,October,Friday,eye liner,82,248.1204557,west
+1000,Cristina,2019,May,Friday,lip gloss,68,206.8704838,east
+1001,Cristina,2018,February,Tuesday,foundation,20,61.59828665,midwest
+1002,Colleen,2018,October,Tuesday,lip gloss,10,28.32613324,south
+1003,Zaret,2018,September,Friday,eye liner,94,283.9871128,south
+1004,Zaret,2020,April,Saturday,foundation,62,188.002533,east
+1005,Emilee,2018,July,Friday,mascara,71,215.0225135,west
+1006,Ashley,2018,March,Sunday,lipstick,70,211.5224441,west
+1007,Cici,2018,April,Monday,foundation,17,52.00720637,east
+1008,Ashley,2019,December,Thursday,eye liner,51,154.8658229,east
+1009,Betsy,2020,April,Sunday,mascara,70,212.1868436,midwest
+1010,Zaret,2020,June,Saturday,eye liner,94,283.9190678,west
+1011,Colleen,2018,December,Friday,mascara,70,211.8501646,midwest
+1012,Ashley,2019,May,Friday,lip gloss,89,269.1885102,west
+1013,Colleen,2019,October,Friday,lip gloss,26,79.31149231,midwest
+1014,Cici,2019,December,Thursday,eye liner,8,26.0964726,midwest
+1015,Ashley,2020,January,Wednesday,foundation,8,26.08199029,midwest
+1016,Cici,2020,October,Thursday,eye liner,62,187.6911012,east
+1017,Jen,2020,August,Friday,eye liner,9,24.81963282,south
+1018,Zaret,2018,August,Sunday,foundation,55,166.8197136,east
+1019,Hallagan,2018,August,Thursday,lipstick,71,215.3533606,midwest
+1020,Emilee,2020,March,Friday,mascara,5,17.42821754,south
+1021,Colleen,2019,August,Wednesday,foundation,28,86.32209182,east
+1022,Emilee,2020,May,Thursday,lipstick,95,286.9267488,south
+1023,Betsy,2019,September,Thursday,eye liner,56,169.6685356,south
+1024,Cici,2019,October,Tuesday,foundation,79,238.7162298,south
+1025,Cici,2019,July,Friday,eye liner,10,32.24114953,south
+1026,Hallagan,2018,September,Friday,lipstick,69,208.6163177,west
+1027,Colleen,2020,March,Friday,lip gloss,15,46.77243043,midwest
+1028,Cici,2020,January,Wednesday,eye liner,0,1.776059433,west
+1029,Cici,2019,July,Thursday,lipstick,78,236.1017895,east
+1030,Hallagan,2019,May,Tuesday,mascara,89,268.4512789,south
+1031,Cici,2019,February,Monday,mascara,94,284.111769,east
+1032,Betsy,2018,February,Tuesday,mascara,5,13.09074245,west
+1033,Hallagan,2020,December,Wednesday,lip gloss,42,127.9516763,midwest
+1034,Emilee,2020,September,Wednesday,eye liner,9,29.02729305,west
+1035,Emilee,2019,April,Sunday,foundation,8,26.39942545,east
+1036,Betsy,2018,August,Wednesday,foundation,69,209.1457372,south
+1037,Cristina,2020,October,Thursday,mascara,2,7.727073552,south
+1038,Cici,2018,September,Friday,eye liner,3,10.48745505,midwest
+1039,Emilee,2019,June,Wednesday,lipstick,76,230.1413463,midwest
+1040,Cristina,2018,June,Monday,eye liner,7,18.43466207,west
+1041,Colleen,2020,July,Wednesday,mascara,24,74.04034304,west
+1042,Jen,2020,September,Saturday,foundation,35,106.6694499,west
+1043,Cici,2018,March,Sunday,foundation,23,71.09951312,west
+1044,Zaret,2020,April,Sunday,eye liner,32,97.98259972,east
+1045,Cristina,2018,August,Thursday,mascara,46,139.8220389,midwest
+1046,Cici,2018,February,Friday,lip gloss,28,85.9135869,midwest
+1047,Cici,2019,January,Thursday,lipstick,58,176.3826235,south
+1048,Emilee,2019,November,Wednesday,lip gloss,19,59.08396823,south
+1049,Colleen,2018,August,Wednesday,lip gloss,79,238.6361797,east
+1050,Betsy,2018,December,Friday,mascara,31,94.12454821,midwest
+1051,Cici,2019,November,Wednesday,eye liner,4,14.29279817,south
+1052,Colleen,2020,March,Tuesday,foundation,91,275.5094233,midwest
+1053,Hallagan,2019,June,Wednesday,lip gloss,51,154.7463095,south
+1054,Emilee,2018,January,Thursday,eye liner,2,8.344304821,south
+1055,Jen,2019,July,Thursday,lipstick,42,127.6840268,west
+1056,Betsy,2018,November,Thursday,lip gloss,57,173.0998861,east
+1057,Colleen,2018,September,Friday,foundation,63,190.2094535,east
+1058,Betsy,2018,May,Tuesday,mascara,37,112.9709011,midwest
+1059,Betsy,2018,March,Wednesday,lip gloss,30,92.61209992,south
+1060,Hallagan,2020,March,Tuesday,foundation,31,95.22083891,east
+1061,Cristina,2018,March,Wednesday,eye liner,55,167.3254047,east
+1062,Jen,2019,December,Monday,eye liner,5,12.64388144,south
+1063,Zaret,2018,April,Friday,lip gloss,28,85.46090469,east
+1064,Emilee,2019,August,Saturday,eye liner,93,280.1503236,midwest
+1065,Jen,2019,October,Friday,lipstick,13,40.96941297,midwest
+1066,Betsy,2020,March,Monday,foundation,94,283.9002152,east
+1067,Jen,2019,March,Saturday,foundation,1,4.85687018,east
+1068,Cici,2019,September,Monday,foundation,5,16.49306781,west
+1069,Colleen,2020,May,Friday,mascara,60,181.3296035,south
+1070,Hallagan,2018,July,Tuesday,lip gloss,67,203.0208558,south
+1071,Hallagan,2018,December,Friday,foundation,87,263.5192963,south
+1072,Hallagan,2018,November,Thursday,mascara,53,161.0692547,west
+1073,Jen,2019,August,Tuesday,lip gloss,74,224.197318,south
+1074,Betsy,2020,November,Tuesday,lip gloss,83,251.4010525,east
+1075,Cici,2019,October,Friday,mascara,45,136.7935068,midwest
+1076,Jen,2018,June,Monday,lip gloss,36,109.9602182,east
+1077,Hallagan,2019,December,Monday,foundation,82,248.1965176,midwest
+1078,Ashley,2020,August,Tuesday,foundation,18,56.50506071,east
+1079,Emilee,2018,April,Monday,foundation,21,64.56759925,south
+1080,Colleen,2019,June,Sunday,foundation,56,170.1652513,south
+1081,Cici,2020,April,Sunday,eye liner,51,154.9639063,east
+1082,Cristina,2020,March,Monday,foundation,88,266.1549639,west
+1083,Emilee,2019,April,Thursday,eye liner,93,280.9578585,east
+1084,Ashley,2018,September,Friday,lip gloss,4,9.795093781,west
+1085,Colleen,2019,April,Thursday,eye liner,30,91.83851958,south
+1086,Jen,2019,December,Monday,foundation,81,245.6182942,south
+1087,Colleen,2019,April,Thursday,foundation,58,175.793507,midwest
+1088,Ashley,2017,December,Sunday,mascara,50,151.9618082,midwest
+1089,Zaret,2018,June,Monday,lip gloss,92,277.64731,south
+1090,Ashley,2020,November,Tuesday,foundation,27,82.12490417,south
+1091,Zaret,2018,August,Sunday,foundation,61,184.4539039,south
+1092,Colleen,2020,July,Thursday,mascara,7,23.19827234,south
+1093,Betsy,2018,December,Friday,lip gloss,25,76.51797861,midwest
+1094,Ashley,2018,August,Sunday,lip gloss,84,254.2131077,south
+1095,Betsy,2018,March,Thursday,eye liner,66,199.9245173,west
+1096,Emilee,2018,May,Tuesday,eye liner,89,269.2347178,east
+1097,Cristina,2019,May,Friday,foundation,32,97.88331058,midwest
+1098,Cristina,2020,July,Wednesday,lip gloss,78,236.2603256,midwest
+1099,Emilee,2020,March,Friday,lipstick,56,169.9866656,west
+1100,Colleen,2020,December,Thursday,foundation,80,241.5378676,midwest
+1101,Cici,2019,January,Thursday,mascara,72,218.3289651,midwest
+1102,Zaret,2019,November,Wednesday,lip gloss,23,71.29868658,east
+1103,Cici,2020,March,Monday,mascara,2,3.688609044,west
+1104,Colleen,2018,October,Tuesday,lip gloss,81,245.3685784,south
+1105,Emilee,2019,November,Saturday,lipstick,4,10.62659889,west
+1106,Betsy,2018,December,Saturday,mascara,81,245.470791,south
+1107,Colleen,2018,March,Wednesday,lipstick,9,24.90160777,midwest
+1108,Hallagan,2019,March,Tuesday,eye liner,67,203.3886615,west
+1109,Betsy,2019,January,Thursday,mascara,27,83.25965024,west
+1110,Colleen,2020,March,Monday,mascara,1,1.448650293,east
+1111,Ashley,2019,August,Wednesday,mascara,24,74.44844247,east
+1112,Hallagan,2020,January,Wednesday,eye liner,80,241.9681122,east
+1113,Zaret,2018,October,Tuesday,lip gloss,82,248.2091753,south
+1114,Jen,2019,December,Friday,foundation,1,5.551862343,east
+1115,Cristina,2018,April,Monday,foundation,11,35.27754788,west
+1116,Betsy,2020,July,Sunday,mascara,12,37.33138881,east
+1117,Cici,2018,December,Friday,eye liner,54,164.3817157,east
+1118,Jen,2020,October,Friday,mascara,78,236.6561927,west
+1119,Cici,2018,February,Friday,mascara,8,21.77000004,west
+1120,Betsy,2018,February,Tuesday,eye liner,6,19.84429849,south
+1121,Zaret,2018,October,Tuesday,foundation,30,91.74824347,west
+1122,Colleen,2020,January,Wednesday,lip gloss,55,166.8144902,south
+1123,Cici,2020,March,Tuesday,eye liner,53,161.2413042,east
+1124,Ashley,2019,February,Monday,mascara,29,88.93103591,east
+1125,Betsy,2018,April,Monday,lip gloss,75,227.0378819,midwest
+1126,Ashley,2018,November,Monday,foundation,78,235.6808415,south
+1127,Zaret,2020,September,Wednesday,foundation,6,20.38612612,south
+1128,Colleen,2019,July,Friday,lip gloss,57,172.6696683,west
+1129,Hallagan,2019,April,Sunday,eye liner,35,106.5278247,south
+1130,Cici,2020,November,Tuesday,eye liner,72,217.3653218,midwest
+1131,Jen,2018,June,Thursday,mascara,79,238.3154657,south
+1132,Cici,2019,April,Thursday,lip gloss,89,269.018617,west
+1133,Jen,2019,April,Monday,eye liner,84,252.5849497,east
+1134,Cristina,2020,September,Saturday,mascara,43,130.6551517,west
+1135,Emilee,2020,January,Saturday,lip gloss,4,9.965195043,midwest
+1136,Emilee,2019,January,Wednesday,foundation,51,154.6603101,west
+1137,Betsy,2020,May,Monday,lip gloss,17,53.07257685,west
+1138,Hallagan,2020,November,Tuesday,mascara,51,155.2358469,west
+1139,Jen,2020,March,Monday,eye liner,14,44.19565165,west
+1140,Ashley,2020,December,Sunday,lip gloss,60,181.8725906,east
+1141,Cici,2018,November,Thursday,mascara,8,21.98166931,west
+1142,Colleen,2019,June,Sunday,foundation,95,286.6617112,south
+1143,Zaret,2020,January,Wednesday,foundation,66,199.5938614,east
+1144,Zaret,2018,December,Tuesday,lip gloss,77,232.62615,midwest
+1145,Hallagan,2018,December,Friday,eye liner,65,197.3309601,east
+1146,Hallagan,2019,April,Thursday,mascara,29,89.18424783,midwest
+1147,Zaret,2018,July,Friday,lipstick,8,26.08816742,east
+1148,Ashley,2020,January,Tuesday,lipstick,42,127.8685805,east
+1149,Betsy,2018,February,Saturday,foundation,93,280.7211875,midwest
+1150,Zaret,2018,June,Sunday,foundation,69,209.1536282,south
+1151,Colleen,2020,July,Wednesday,mascara,91,274.8044712,south
+1152,Hallagan,2019,January,Thursday,eye liner,11,34.52099866,south
+1153,Hallagan,2018,December,Saturday,lip gloss,1,1.562904184,midwest
+1154,Jen,2018,December,Tuesday,mascara,52,158.2107149,south
+1155,Betsy,2020,March,Monday,lipstick,10,28.63501438,south
+1156,Zaret,2020,November,Saturday,mascara,33,100.5069678,south
+1157,Betsy,2018,October,Tuesday,lipstick,1,1.115583708,west
+1158,Colleen,2020,August,Tuesday,mascara,24,73.54151673,west
+1159,Jen,2018,May,Saturday,foundation,71,214.7031623,midwest
+1160,Hallagan,2018,November,Thursday,lip gloss,88,265.86483,south
+1161,Betsy,2019,July,Friday,lip gloss,16,49.99050181,west
+1162,Cici,2019,June,Wednesday,foundation,7,23.19215069,east
+1163,Emilee,2018,September,Friday,mascara,46,140.4791075,south
+1164,Ashley,2018,November,Monday,foundation,10,27.58427738,midwest
+1165,Hallagan,2020,June,Saturday,lip gloss,83,251.1332361,west
+1166,Jen,2020,March,Friday,lip gloss,85,256.2255287,south
+1167,Zaret,2019,September,Sunday,eye liner,18,56.22179688,midwest
+1168,Cristina,2018,September,Friday,lipstick,83,251.4037517,midwest
+1169,Cici,2020,November,Saturday,lip gloss,71,214.7203778,south
+1170,Emilee,2018,August,Thursday,eye liner,2,7.932485441,east
+1171,Betsy,2020,November,Tuesday,foundation,71,215.030861,west
+1172,Zaret,2019,September,Thursday,lipstick,68,206.2058909,south
+1173,Emilee,2018,November,Sunday,eye liner,30,92.33205932,east
+1174,Hallagan,2020,January,Wednesday,lipstick,72,217.8071939,west
+1175,Jen,2018,August,Sunday,eye liner,73,221.3665261,east
+1176,Betsy,2020,January,Saturday,lip gloss,28,86.46842112,east
+1177,Cici,2020,March,Friday,mascara,40,122.6364281,midwest
+1178,Emilee,2020,December,Wednesday,foundation,8,22.29551464,west
+1179,Ashley,2019,April,Sunday,lipstick,70,211.6914545,east
+1180,Betsy,2019,December,Monday,eye liner,3,10.72178134,midwest
+1181,Betsy,2018,December,Friday,eye liner,33,100.6825833,midwest
+1182,Colleen,2018,August,Sunday,lip gloss,88,265.7476632,east
+1183,Emilee,2018,December,Saturday,mascara,39,119.1661099,east
+1184,Cici,2019,June,Sunday,lipstick,64,193.6373538,midwest
+1185,Jen,2020,June,Saturday,lip gloss,0,2.131812301,east
+1186,Cristina,2018,March,Sunday,lipstick,26,80.3737668,south
+1187,Ashley,2018,March,Wednesday,lip gloss,0,1.488068506,west
+1188,Betsy,2020,June,Tuesday,foundation,76,229.7723886,east
+1189,Emilee,2018,October,Wednesday,eye liner,75,227.6195757,midwest
+1190,Emilee,2018,June,Thursday,lip gloss,61,184.4748113,south
+1191,Cici,2019,July,Monday,eye liner,2,4.280602875,midwest
+1192,Hallagan,2018,February,Friday,lipstick,40,122.5516179,east
+1193,Colleen,2019,February,Monday,eye liner,5,17.3840024,west
+1194,Colleen,2020,September,Wednesday,eye liner,57,172.5231339,south
+1195,Jen,2020,March,Tuesday,eye liner,86,259.8164652,midwest
+1196,Betsy,2018,June,Thursday,lipstick,15,46.52911088,east
+1197,Cici,2020,September,Saturday,eye liner,39,118.8402704,east
+1198,Betsy,2018,May,Tuesday,foundation,94,284.2830817,midwest
+1199,Betsy,2020,March,Tuesday,lip gloss,78,235.949096,south
+1200,Cici,2020,January,Saturday,eye liner,65,196.9472375,east
+1201,Ashley,2020,December,Sunday,eye liner,66,199.8942255,south
+1202,Emilee,2019,May,Friday,mascara,84,254.0976579,east
+1203,Betsy,2020,March,Friday,mascara,35,107.4223033,south
+1204,Cristina,2018,June,Sunday,mascara,94,284.4496005,west
+1205,Colleen,2019,April,Sunday,lip gloss,26,80.0089079,midwest
+1206,Jen,2020,July,Thursday,eye liner,80,242.6896051,east
+1207,Cristina,2018,May,Wednesday,lip gloss,7,22.74908477,west
+1208,Hallagan,2020,July,Thursday,mascara,47,142.4529334,midwest
+1209,Colleen,2018,September,Monday,lip gloss,32,98.66880662,west
+1210,Hallagan,2019,November,Sunday,lip gloss,8,25.39718144,west
+1211,Ashley,2018,July,Saturday,mascara,33,100.9083579,midwest
+1212,Jen,2018,August,Thursday,eye liner,22,68.4432666,east
+1213,Cici,2019,October,Tuesday,lip gloss,81,244.7024907,south
+1214,Cici,2020,June,Tuesday,lipstick,81,244.8738507,midwest
+1215,Ashley,2018,July,Saturday,foundation,30,91.7388439,south
+1216,Zaret,2018,September,Monday,lip gloss,1,1.145171894,west
+1217,Hallagan,2020,May,Monday,mascara,35,106.8544031,midwest
+1218,Cici,2020,March,Friday,mascara,78,235.9605287,west
+1219,Betsy,2020,August,Monday,lip gloss,15,47.22639965,south
+1220,Jen,2019,January,Sunday,mascara,75,226.8774276,east
+1221,Emilee,2020,October,Thursday,eye liner,12,38.14303875,south
+1222,Cristina,2019,November,Wednesday,mascara,30,91.9833372,midwest
+1223,Cristina,2019,May,Friday,eye liner,42,128.0454928,west
+1224,Emilee,2017,December,Sunday,eye liner,8,22.14692915,east
+1225,Jen,2018,April,Monday,lipstick,93,280.7371443,west
+1226,Hallagan,2020,August,Tuesday,eye liner,55,167.5752453,east
+1227,Ashley,2019,February,Friday,lip gloss,53,161.167569,south
+1228,Emilee,2020,July,Wednesday,eye liner,20,61.77122371,west
+1229,Zaret,2019,April,Thursday,lipstick,19,58.72089078,midwest
+1230,Cici,2019,January,Sunday,mascara,23,70.86752056,south
+1231,Betsy,2020,March,Monday,foundation,68,205.9090389,south
+1232,Colleen,2020,January,Saturday,lipstick,52,157.8620126,east
+1233,Ashley,2019,July,Monday,eye liner,40,121.9560653,south
+1234,Colleen,2020,February,Thursday,mascara,22,67.70839712,west
+1235,Colleen,2019,April,Sunday,lipstick,5,16.99010112,west
+1236,Colleen,2020,April,Saturday,mascara,30,92.28377463,south
+1237,Colleen,2018,March,Thursday,eye liner,6,20.24495716,west
+1238,Jen,2018,September,Friday,lipstick,92,277.6301019,east
+1239,Zaret,2020,May,Monday,mascara,5,12.43249037,midwest
+1240,Cristina,2020,May,Thursday,lip gloss,20,61.84074031,west
+1241,Emilee,2020,December,Thursday,mascara,54,163.0858874,midwest
+1242,Colleen,2019,April,Sunday,eye liner,9,29.20643436,east
+1243,Zaret,2019,May,Friday,eye liner,6,19.95782144,south
+1244,Emilee,2018,May,Tuesday,lip gloss,47,142.8294001,east
+1245,Ashley,2019,November,Wednesday,mascara,10,27.09125762,south
+1246,Cici,2018,May,Saturday,mascara,90,272.3404241,midwest
+1247,Betsy,2018,February,Friday,foundation,48,146.4346102,midwest
+1248,Emilee,2019,April,Sunday,foundation,55,167.3252726,south
+1249,Betsy,2020,June,Saturday,mascara,42,128.4786906,east
+1250,Cici,2020,January,Wednesday,eye liner,39,119.4255823,west
+1251,Colleen,2019,November,Wednesday,mascara,26,79.64110681,south
+1252,Betsy,2020,February,Sunday,mascara,26,79.49932177,east
+1253,Betsy,2019,December,Monday,eye liner,52,158.2826665,east
+1254,Colleen,2018,November,Thursday,foundation,19,58.76953502,south
+1255,Ashley,2018,August,Wednesday,mascara,18,55.68373972,east
+1256,Hallagan,2020,November,Saturday,mascara,87,263.0413935,east
+1257,Colleen,2018,October,Saturday,eye liner,46,139.9396919,midwest
+1258,Betsy,2020,July,Sunday,mascara,54,163.6936472,midwest
+1259,Zaret,2018,February,Saturday,mascara,21,64.70180374,south
+1260,Colleen,2018,February,Friday,foundation,6,16.2371435,west
+1261,Cristina,2018,November,Thursday,foundation,47,142.4130124,east
+1262,Jen,2018,April,Friday,foundation,14,44.23662694,west
+1263,Jen,2020,September,Sunday,foundation,73,220.5000128,west
+1264,Jen,2020,December,Sunday,lip gloss,14,44.4246999,south
+1265,Hallagan,2020,April,Saturday,lip gloss,95,286.7569872,midwest
+1266,Cristina,2018,February,Tuesday,eye liner,64,193.367682,south
+1267,Cici,2018,October,Tuesday,eye liner,47,143.1431427,midwest
+1268,Cristina,2018,November,Monday,foundation,20,61.93778837,west
+1269,Zaret,2018,December,Tuesday,lip gloss,71,215.3284403,west
+1270,Cristina,2019,October,Friday,eye liner,66,199.4973272,west
+1271,Hallagan,2018,October,Tuesday,foundation,79,239.4359281,west
+1272,Hallagan,2019,October,Tuesday,mascara,7,18.40126888,east
+1273,Betsy,2019,September,Monday,foundation,72,217.3530848,west
+1274,Hallagan,2018,October,Tuesday,lipstick,91,275.3682391,midwest
+1275,Colleen,2018,March,Wednesday,mascara,57,173.4778165,south
+1276,Cici,2018,September,Friday,foundation,8,21.8274949,south
+1277,Cristina,2019,September,Sunday,foundation,45,136.9559947,east
+1278,Zaret,2018,October,Wednesday,eye liner,92,278.0452377,south
+1279,Colleen,2018,August,Thursday,mascara,28,86.45755759,midwest
+1280,Betsy,2019,January,Sunday,lipstick,79,238.9864613,west
+1281,Jen,2019,January,Sunday,foundation,92,277.5379259,west
+1282,Cristina,2018,April,Friday,mascara,11,34.45739197,midwest
+1283,Colleen,2019,January,Sunday,eye liner,23,70.69661606,east
+1284,Betsy,2020,April,Wednesday,eye liner,2,8.802377314,midwest
+1285,Emilee,2018,December,Saturday,eye liner,2,3.449335663,east
+1286,Hallagan,2019,June,Saturday,lip gloss,33,100.6861759,west
+1287,Emilee,2020,June,Saturday,mascara,10,31.30093535,midwest
+1288,Ashley,2018,November,Monday,lipstick,84,254.1193721,east
+1289,Hallagan,2018,December,Tuesday,mascara,88,266.3933403,midwest
+1290,Betsy,2019,July,Thursday,eye liner,95,286.6084322,east
+1291,Zaret,2019,February,Monday,mascara,3,11.90388214,midwest
+1292,Betsy,2020,April,Sunday,lip gloss,72,217.5813149,west
+1293,Cici,2019,March,Tuesday,eye liner,58,176.6539404,midwest
+1294,Ashley,2018,June,Sunday,eye liner,19,59.64335708,west
+1295,Betsy,2019,April,Thursday,mascara,35,106.5070893,south
+1296,Hallagan,2018,November,Monday,foundation,80,242.6333048,west
+1297,Cristina,2018,January,Monday,eye liner,26,80.04858469,south
+1298,Zaret,2019,July,Thursday,lip gloss,93,280.9322229,west
+1299,Colleen,2019,November,Saturday,eye liner,29,90.05707639,midwest
+1300,Colleen,2018,April,Friday,foundation,88,266.3692529,midwest
+1301,Jen,2020,August,Friday,eye liner,5,16.87420157,east
+1302,Colleen,2019,August,Tuesday,mascara,64,194.0271587,west
+1303,Emilee,2019,December,Friday,lip gloss,38,116.0278143,east
+1304,Jen,2018,October,Saturday,foundation,21,65.60411467,west
+1305,Hallagan,2019,July,Monday,eye liner,61,184.4418929,west
+1306,Zaret,2018,May,Tuesday,eye liner,53,160.795642,west
+1307,Betsy,2020,January,Wednesday,mascara,28,86.32286374,east
+1308,Zaret,2020,August,Tuesday,mascara,39,119.491553,east
+1309,Zaret,2020,October,Friday,lip gloss,89,268.7204065,west
+1310,Betsy,2018,April,Friday,foundation,72,218.1578425,south
+1311,Colleen,2018,August,Sunday,lip gloss,63,191.0796767,south
+1312,Cristina,2020,December,Thursday,foundation,47,142.1470812,west
+1313,Ashley,2019,July,Thursday,mascara,8,25.61999779,midwest
+1314,Betsy,2018,November,Sunday,lip gloss,88,265.5671714,east
+1315,Ashley,2018,August,Sunday,lip gloss,12,37.81867988,midwest
+1316,Jen,2019,November,Sunday,mascara,79,239.1751968,midwest
+1317,Colleen,2018,June,Thursday,lipstick,39,118.9448844,south
+1318,Jen,2020,February,Sunday,mascara,61,185.0561348,west
+1319,Jen,2020,September,Wednesday,lip gloss,12,38.27523343,west
+1320,Zaret,2018,November,Sunday,mascara,25,76.65116824,east
+1321,Cici,2019,November,Sunday,foundation,82,248.2610073,south
+1322,Ashley,2018,December,Tuesday,mascara,4,14.48265398,west
+1323,Ashley,2020,December,Sunday,lipstick,22,68.22685445,south
+1324,Ashley,2020,September,Sunday,mascara,81,244.6243385,midwest
+1325,Zaret,2019,February,Friday,eye liner,34,103.8517281,south
+1326,Ashley,2018,November,Thursday,mascara,89,269.7447891,east
+1327,Zaret,2019,January,Thursday,mascara,6,20.30969003,midwest
+1328,Jen,2019,June,Sunday,eye liner,78,235.99588,south
+1329,Cici,2019,May,Friday,lip gloss,9,28.85271127,south
+1330,Cristina,2020,December,Thursday,mascara,9,29.7181181,east
+1331,Cristina,2020,April,Wednesday,foundation,73,221.1834992,east
+1332,Betsy,2018,January,Thursday,lip gloss,13,41.92379193,midwest
+1333,Colleen,2019,March,Tuesday,eye liner,14,43.99880873,midwest
+1334,Betsy,2019,May,Tuesday,lipstick,33,100.3119525,midwest
+1335,Betsy,2018,March,Thursday,foundation,17,53.12311944,east
+1336,Hallagan,2020,July,Wednesday,lip gloss,9,29.50115219,south
+1337,Jen,2020,February,Thursday,mascara,15,47.31152358,midwest
+1338,Ashley,2020,September,Saturday,lipstick,50,152.3101916,east
+1339,Jen,2018,November,Sunday,lipstick,13,40.55875987,west
+1340,Hallagan,2018,September,Monday,lip gloss,24,74.73113731,west
+1341,Betsy,2019,December,Friday,lip gloss,77,232.892756,south
+1342,Hallagan,2020,May,Thursday,mascara,21,65.21458883,east
+1343,Cici,2019,July,Thursday,mascara,80,240.7622688,midwest
+1344,Hallagan,2018,November,Sunday,mascara,56,170.5090192,south
+1345,Cristina,2019,April,Sunday,foundation,28,86.00269825,west
+1346,Jen,2019,November,Sunday,lipstick,50,151.569095,midwest
+1347,Cristina,2019,April,Sunday,eye liner,23,71.40530302,east
+1348,Jen,2018,June,Sunday,lip gloss,77,232.8505,midwest
+1349,Betsy,2018,February,Tuesday,mascara,56,170.2627007,east
+1350,Cici,2020,April,Wednesday,lip gloss,26,79.76009552,east
+1351,Ashley,2018,February,Tuesday,foundation,18,55.93170674,south
+1352,Cristina,2018,February,Tuesday,lip gloss,40,121.1029253,south
+1353,Hallagan,2018,February,Tuesday,mascara,75,227.0664148,south
+1354,Colleen,2019,February,Friday,lipstick,61,184.7539347,midwest
+1355,Ashley,2018,December,Tuesday,lipstick,35,106.7357916,west
+1356,Cici,2019,July,Friday,foundation,42,127.7429731,west
+1357,Hallagan,2018,November,Thursday,eye liner,47,142.5864094,south
+1358,Ashley,2018,October,Saturday,mascara,74,225.0192555,south
+1359,Ashley,2019,May,Tuesday,mascara,55,166.251696,west
+1360,Zaret,2019,September,Thursday,lip gloss,87,263.1107486,west
+1361,Ashley,2018,June,Monday,foundation,75,227.3291643,south
+1362,Emilee,2020,June,Tuesday,foundation,91,274.6074478,west
+1363,Ashley,2019,December,Monday,lip gloss,79,238.2057821,south
+1364,Cici,2018,June,Thursday,mascara,31,94.91531463,midwest
+1365,Hallagan,2018,October,Tuesday,eye liner,36,109.8683995,midwest
+1366,Jen,2018,June,Monday,mascara,80,242.0631393,south
+1367,Betsy,2020,March,Friday,lip gloss,32,98.10586342,east
+1368,Zaret,2018,June,Monday,lipstick,29,89.17280288,west
+1369,Hallagan,2019,May,Friday,foundation,64,193.516763,west
+1370,Cristina,2018,March,Wednesday,lip gloss,27,83.66849735,west
+1371,Cici,2018,September,Friday,lip gloss,36,109.8092859,west
+1372,Betsy,2020,December,Wednesday,mascara,36,109.4565777,west
+1373,Jen,2020,October,Monday,mascara,32,97.34339996,south
+1374,Cristina,2020,August,Tuesday,mascara,9,29.17303465,east
+1375,Zaret,2020,May,Monday,foundation,78,235.6357076,east
+1376,Zaret,2019,January,Sunday,lipstick,55,167.6930031,west
+1377,Hallagan,2018,August,Sunday,mascara,79,239.2582266,south
+1378,Hallagan,2017,December,Sunday,eye liner,9,29.36931209,south
+1379,Betsy,2020,December,Sunday,foundation,4,14.27632998,west
+1380,Hallagan,2020,April,Wednesday,mascara,6,20.16524638,midwest
+1381,Cici,2019,May,Tuesday,eye liner,18,55.91901949,midwest
+1382,Zaret,2019,October,Tuesday,eye liner,14,44.49126077,west
+1383,Cristina,2020,August,Friday,lip gloss,91,275.5044793,east
+1384,Zaret,2019,December,Thursday,eye liner,74,224.0718776,south
+1385,Betsy,2018,July,Saturday,lip gloss,47,143.8575642,west
+1386,Colleen,2020,October,Friday,foundation,28,86.46828953,south
+1387,Colleen,2020,September,Wednesday,eye liner,21,64.78420777,west
+1388,Cristina,2019,March,Wednesday,foundation,52,157.6942437,south
+1389,Zaret,2018,June,Monday,lipstick,33,101.0885613,south
+1390,Colleen,2018,February,Friday,mascara,7,19.43792396,east
+1391,Cristina,2018,March,Thursday,lip gloss,12,38.23808817,south
+1392,Zaret,2018,February,Saturday,eye liner,1,4.504972773,south
+1393,Betsy,2018,January,Monday,mascara,56,169.7577022,south
+1394,Cristina,2019,June,Sunday,foundation,34,104.4770665,south
+1395,Cici,2019,February,Friday,foundation,83,250.3897488,midwest
+1396,Colleen,2019,March,Saturday,eye liner,4,10.15562484,south
+1397,Cristina,2019,January,Thursday,foundation,9,29.70366422,south
+1398,Hallagan,2018,May,Saturday,eye liner,64,193.990784,west
+1399,Cici,2018,May,Saturday,lip gloss,13,40.94742483,south
+1400,Zaret,2018,April,Friday,lip gloss,9,28.6836821,south
+1401,Emilee,2020,September,Wednesday,lip gloss,6,19.54628145,west
+1402,Ashley,2020,May,Monday,foundation,55,167.0921059,midwest
+1403,Jen,2020,May,Friday,lipstick,64,194.8349093,south
+1404,Betsy,2019,June,Wednesday,lip gloss,27,82.65474888,east
+1405,Jen,2018,October,Saturday,lip gloss,4,14.35836711,west
+1406,Cici,2019,November,Saturday,lip gloss,17,53.45022602,midwest
+1407,Ashley,2020,August,Friday,lip gloss,24,74.2874174,east
+1408,Emilee,2019,December,Thursday,lip gloss,87,262.8805947,west
+1409,Zaret,2018,November,Thursday,mascara,10,31.75922778,east
+1410,Cristina,2018,October,Saturday,mascara,0,1.831133946,midwest
+1411,Cristina,2019,January,Sunday,lip gloss,73,221.0091797,midwest
+1412,Hallagan,2018,March,Sunday,lip gloss,66,200.1219825,midwest
+1413,Betsy,2020,August,Friday,lip gloss,70,211.7533365,west
+1414,Zaret,2018,December,Friday,foundation,78,235.9059602,east
+1415,Jen,2019,November,Saturday,mascara,22,66.96506579,east
+1416,Emilee,2018,October,Tuesday,mascara,21,65.21746271,south
+1417,Betsy,2018,October,Saturday,lip gloss,8,25.82495288,east
+1418,Ashley,2018,February,Tuesday,mascara,62,187.8011272,west
+1419,Colleen,2020,May,Thursday,mascara,81,244.5074651,east
+1420,Zaret,2018,December,Tuesday,lip gloss,72,218.1726572,east
+1421,Hallagan,2020,October,Thursday,eye liner,13,41.35687552,west
+1422,Betsy,2019,August,Wednesday,lipstick,52,157.4187323,south
+1423,Cristina,2020,January,Saturday,eye liner,49,148.1067936,west
+1424,Cristina,2018,March,Sunday,eye liner,82,248.1691565,south
+1425,Zaret,2020,April,Saturday,eye liner,5,17.01569032,midwest
+1426,Jen,2019,September,Thursday,mascara,45,136.856309,west
+1427,Emilee,2019,December,Thursday,mascara,10,27.35090278,midwest
+1428,Ashley,2020,December,Wednesday,eye liner,53,160.8516406,midwest
+1429,Hallagan,2019,March,Wednesday,lipstick,24,73.61606446,east
+1430,Cristina,2020,July,Sunday,lip gloss,27,83.23212229,midwest
+1431,Jen,2020,April,Sunday,foundation,52,158.6300169,west
+1432,Zaret,2020,October,Monday,foundation,0,1.781572869,east
+1433,Cristina,2018,June,Thursday,mascara,92,278.6517304,east
+1434,Emilee,2020,October,Monday,mascara,22,67.70678539,east
+1435,Cici,2020,April,Sunday,eye liner,67,202.9037053,west
+1436,Zaret,2019,October,Friday,mascara,7,23.03432735,west
+1437,Cici,2018,May,Saturday,eye liner,10,27.96273435,south
+1438,Colleen,2020,August,Friday,mascara,10,31.66721795,midwest
+1439,Cristina,2019,June,Sunday,foundation,15,46.47755148,midwest
+1440,Ashley,2019,June,Sunday,lipstick,0,2.130905592,south
+1441,Zaret,2020,March,Friday,foundation,93,280.908914,east
+1442,Hallagan,2020,January,Saturday,foundation,57,172.6217798,west
+1443,Cristina,2018,September,Friday,lip gloss,69,208.7655138,west
+1444,Cici,2019,December,Friday,foundation,53,161.6481718,south
+1445,Ashley,2020,October,Monday,lipstick,67,203.56553,south
+1446,Cici,2018,March,Thursday,eye liner,23,70.70815277,east
+1447,Colleen,2018,June,Thursday,mascara,43,131.1601914,west
+1448,Jen,2020,October,Monday,lip gloss,69,209.3951563,west
+1449,Hallagan,2020,September,Sunday,lipstick,45,136.5034222,midwest
+1450,Zaret,2019,November,Saturday,eye liner,70,211.7009714,west
+1451,Colleen,2020,October,Monday,mascara,91,274.5014015,east
+1452,Emilee,2020,December,Sunday,mascara,33,100.481405,midwest
+1453,Colleen,2020,August,Monday,foundation,90,272.3577946,midwest
+1454,Colleen,2018,December,Tuesday,mascara,17,52.51626058,east
+1455,Zaret,2018,July,Saturday,eye liner,7,18.91673799,east
+1456,Ashley,2018,August,Thursday,mascara,21,64.91264228,west
+1457,Jen,2019,August,Tuesday,foundation,14,44.32781817,midwest
+1458,Zaret,2020,April,Wednesday,lipstick,84,254.2723216,east
+1459,Cristina,2020,January,Saturday,lipstick,92,278.1289227,west
+1460,Zaret,2020,October,Monday,lip gloss,1,0.128599435,west
+1461,Zaret,2019,May,Friday,lip gloss,73,222.0867658,south
+1462,Cici,2020,January,Tuesday,foundation,48,146.4210828,east
+1463,Cici,2018,December,Friday,eye liner,72,217.0823301,south
+1464,Betsy,2020,July,Wednesday,foundation,42,127.608714,east
+1465,Zaret,2018,December,Tuesday,foundation,80,242.2075462,west
+1466,Zaret,2019,August,Wednesday,foundation,56,170.8555888,south
+1467,Jen,2018,January,Monday,mascara,46,140.5768644,east
+1468,Betsy,2020,May,Friday,eye liner,45,136.7721639,west
+1469,Ashley,2019,June,Saturday,foundation,53,160.4016384,east
+1470,Ashley,2019,September,Monday,eye liner,51,155.0515282,west
+1471,Cristina,2019,December,Monday,mascara,64,193.299032,east
+1472,Betsy,2018,November,Sunday,eye liner,15,47.08666057,west
+1473,Zaret,2018,March,Thursday,lipstick,33,101.6998866,east
+1474,Emilee,2020,May,Thursday,eye liner,31,95.05066755,west
+1475,Ashley,2019,December,Monday,lipstick,51,155.1847283,east
+1476,Cristina,2020,August,Friday,foundation,7,18.6360867,east
+1477,Ashley,2019,May,Friday,eye liner,37,112.074064,east
+1478,Betsy,2019,June,Wednesday,foundation,43,130.9737955,south
+1479,Cici,2020,May,Monday,mascara,63,190.6920983,south
+1480,Colleen,2018,July,Friday,eye liner,29,89.58901621,west
+1481,Cici,2019,December,Thursday,mascara,20,61.94409172,midwest
+1482,Emilee,2020,March,Tuesday,eye liner,48,146.4422399,west
+1483,Betsy,2019,July,Friday,eye liner,94,284.3065158,midwest
+1484,Betsy,2020,September,Saturday,foundation,41,124.8834354,midwest
+1485,Betsy,2019,January,Sunday,eye liner,45,137.5462075,south
+1486,Jen,2019,May,Friday,lip gloss,69,208.6065609,west
+1487,Ashley,2018,March,Thursday,mascara,48,146.16734,south
+1488,Cristina,2019,January,Sunday,mascara,38,115.7031947,west
+1489,Betsy,2020,January,Saturday,lip gloss,49,149.1105207,south
+1490,Colleen,2018,August,Thursday,foundation,79,239.1502803,west
+1491,Ashley,2019,July,Monday,foundation,93,281.3413368,south
+1492,Colleen,2018,December,Tuesday,foundation,67,202.4360183,west
+1493,Betsy,2020,May,Monday,foundation,13,41.31876953,east
+1494,Ashley,2019,October,Friday,lip gloss,71,215.3622259,west
+1495,Betsy,2020,October,Monday,foundation,15,46.38654955,west
+1496,Zaret,2019,September,Sunday,eye liner,89,269.1236545,south
+1497,Zaret,2019,October,Tuesday,mascara,65,197.4961991,midwest
+1498,Zaret,2018,December,Tuesday,eye liner,16,49.9776215,midwest
+1499,Betsy,2020,May,Friday,lip gloss,48,146.1294022,east
+1500,Hallagan,2019,August,Wednesday,eye liner,78,235.9430418,midwest
+1501,Cici,2018,January,Monday,lip gloss,5,17.19135784,west
+1502,Emilee,2020,January,Tuesday,lip gloss,33,101.7068934,west
+1503,Ashley,2020,March,Tuesday,foundation,73,220.6254494,midwest
+1504,Betsy,2018,July,Tuesday,mascara,93,280.8622586,south
+1505,Betsy,2019,December,Friday,foundation,37,113.2423604,east
+1506,Colleen,2019,July,Friday,lip gloss,23,70.33809299,south
+1507,Colleen,2019,November,Sunday,lip gloss,3,7.208596188,west
+1508,Jen,2020,February,Thursday,eye liner,39,118.955409,south
+1509,Betsy,2020,April,Sunday,eye liner,83,251.4037069,midwest
+1510,Emilee,2020,August,Tuesday,foundation,65,197.8086213,south
+1511,Betsy,2018,November,Monday,lip gloss,13,41.7394125,east
+1512,Emilee,2019,November,Wednesday,foundation,9,28.85589955,east
+1513,Cristina,2020,December,Sunday,eye liner,4,10.35325541,south
+1514,Ashley,2018,October,Wednesday,mascara,22,67.74528512,south
+1515,Hallagan,2019,March,Wednesday,mascara,3,6.892018061,south
+1516,Colleen,2018,July,Saturday,mascara,58,176.1980495,south
+1517,Cristina,2018,August,Sunday,eye liner,65,196.6391148,south
+1518,Colleen,2018,June,Monday,eye liner,9,28.45906518,midwest
+1519,Emilee,2020,October,Monday,lipstick,18,56.30024144,south
+1520,Hallagan,2018,May,Tuesday,foundation,55,166.7781249,east
+1521,Cristina,2019,January,Wednesday,eye liner,69,209.5682295,south
+1522,Zaret,2018,April,Monday,eye liner,51,155.5596049,west
+1523,Ashley,2020,January,Saturday,lipstick,23,71.15000793,south
+1524,Betsy,2020,April,Wednesday,lip gloss,38,115.8089598,west
+1525,Zaret,2018,November,Monday,lipstick,8,22.28659155,midwest
+1526,Hallagan,2020,October,Monday,eye liner,20,61.782563,west
+1527,Cristina,2019,July,Thursday,lip gloss,25,76.80058251,west
+1528,Betsy,2020,October,Monday,eye liner,6,16.10594614,west
+1529,Zaret,2020,July,Thursday,lip gloss,88,266.7720989,midwest
+1530,Jen,2020,May,Monday,eye liner,62,187.5417975,south
+1531,Hallagan,2017,December,Sunday,lipstick,80,242.1601241,south
+1532,Cici,2018,March,Wednesday,lipstick,66,199.7037672,west
+1533,Emilee,2018,November,Sunday,foundation,34,104.4493069,west
+1534,Hallagan,2018,December,Friday,eye liner,49,149.816215,midwest
+1535,Cici,2018,July,Tuesday,lip gloss,45,136.9233187,south
+1536,Cristina,2019,December,Monday,foundation,16,49.65018756,west
+1537,Jen,2019,August,Saturday,lipstick,45,136.6378672,west
+1538,Ashley,2018,June,Thursday,eye liner,1,5.72634796,midwest
+1539,Cici,2019,July,Friday,mascara,33,100.9705532,south
+1540,Hallagan,2019,August,Wednesday,lipstick,37,113.0393011,south
+1541,Ashley,2019,July,Thursday,eye liner,46,139.3370907,west
+1542,Betsy,2018,February,Friday,foundation,71,215.350168,south
+1543,Zaret,2018,November,Monday,mascara,59,179.1170565,west
+1544,Zaret,2019,April,Thursday,lipstick,84,253.541083,west
+1545,Zaret,2020,June,Saturday,eye liner,91,274.2335654,west
+1546,Cristina,2018,March,Wednesday,lip gloss,33,100.2287181,west
+1547,Cici,2018,December,Tuesday,eye liner,34,104.0414292,east
+1548,Zaret,2020,October,Monday,lip gloss,1,5.319913608,west
+1549,Hallagan,2018,February,Saturday,eye liner,42,128.7276895,west
+1550,Cici,2019,December,Monday,eye liner,45,137.9298223,east
+1551,Emilee,2018,October,Saturday,lip gloss,26,80.03158779,east
+1552,Ashley,2018,January,Monday,eye liner,72,218.3283058,south
+1553,Zaret,2020,July,Thursday,eye liner,5,13.39070958,west
+1554,Colleen,2018,March,Sunday,foundation,31,94.66291469,south
+1555,Cici,2017,December,Sunday,lip gloss,48,145.908598,south
+1556,Colleen,2020,October,Friday,mascara,84,253.5971337,midwest
+1557,Zaret,2020,February,Thursday,eye liner,54,163.8956083,south
+1558,Colleen,2018,January,Thursday,mascara,44,134.1892533,west
+1559,Cristina,2018,October,Wednesday,lip gloss,40,122.0533156,south
+1560,Betsy,2019,August,Wednesday,lip gloss,25,76.89626524,west
+1561,Emilee,2018,February,Saturday,lip gloss,8,21.48196776,south
+1562,Cristina,2020,May,Thursday,eye liner,59,178.7007677,west
+1563,Zaret,2018,December,Tuesday,eye liner,59,179.0993827,east
+1564,Emilee,2019,November,Wednesday,foundation,34,103.7232097,midwest
+1565,Emilee,2018,November,Monday,mascara,27,82.68075588,midwest
+1566,Cici,2020,October,Monday,foundation,3,10.69506751,south
+1567,Hallagan,2019,August,Saturday,mascara,89,269.1197611,west
+1568,Hallagan,2019,May,Friday,eye liner,58,175.9816,south
+1569,Cici,2019,January,Wednesday,lipstick,52,158.0457179,west
+1570,Cici,2020,July,Thursday,mascara,32,98.04752721,east
+1571,Cristina,2019,September,Sunday,mascara,3,10.58406469,south
+1572,Zaret,2018,November,Thursday,eye liner,45,137.0793541,west
+1573,Colleen,2018,November,Monday,eye liner,91,275.5580525,east
+1574,Zaret,2020,February,Sunday,foundation,8,21.44876877,south
+1575,Betsy,2019,March,Saturday,mascara,7,19.13604609,midwest
+1576,Hallagan,2019,November,Saturday,foundation,33,100.8864967,west
+1577,Colleen,2019,May,Friday,lip gloss,7,18.80716479,south
+1578,Colleen,2020,October,Thursday,foundation,82,248.4254323,east
+1579,Ashley,2018,June,Sunday,eye liner,87,262.8464594,east
+1580,Cici,2019,February,Monday,mascara,93,281.5294445,midwest
+1581,Cristina,2019,October,Friday,foundation,72,218.1690559,south
+1582,Jen,2018,October,Saturday,mascara,11,35.11622194,east
+1583,Colleen,2020,July,Sunday,lip gloss,18,55.7801248,south
+1584,Betsy,2020,August,Friday,foundation,93,281.2588599,east
+1585,Hallagan,2019,August,Saturday,foundation,56,170.4255902,west
+1586,Ashley,2018,September,Friday,lip gloss,66,199.7027456,midwest
+1587,Ashley,2019,January,Wednesday,lip gloss,95,286.7553012,west
+1588,Zaret,2019,July,Thursday,mascara,61,184.839085,midwest
+1589,Colleen,2020,July,Sunday,lip gloss,26,79.32246678,east
+1590,Emilee,2019,December,Thursday,mascara,29,89.1164361,west
+1591,Emilee,2019,February,Monday,lip gloss,61,184.7926938,east
+1592,Hallagan,2020,June,Tuesday,mascara,3,7.006346193,south
+1593,Cici,2020,January,Tuesday,foundation,40,122.0527412,south
+1594,Hallagan,2020,July,Sunday,foundation,86,260.3669997,west
+1595,Cici,2019,June,Saturday,lipstick,58,176.5790012,midwest
+1596,Hallagan,2019,February,Monday,eye liner,13,41.15897785,west
+1597,Cici,2020,December,Thursday,eye liner,14,44.43358321,south
+1598,Emilee,2019,April,Thursday,mascara,85,256.6763758,south
+1599,Cristina,2020,January,Wednesday,lip gloss,42,127.6000829,midwest
+1600,Cici,2020,November,Tuesday,lipstick,11,35.42750383,west
+1601,Jen,2018,January,Monday,lip gloss,32,98.40502874,south
+1602,Hallagan,2019,January,Sunday,lip gloss,79,239.2646382,south
+1603,Emilee,2018,June,Thursday,lip gloss,25,77.04674701,west
+1604,Cristina,2019,November,Sunday,foundation,94,284.0603449,west
+1605,Colleen,2020,November,Tuesday,eye liner,6,20.05720577,midwest
+1606,Zaret,2019,June,Wednesday,lipstick,15,46.56706338,west
+1607,Cristina,2018,June,Monday,eye liner,15,47.25252025,east
+1608,Emilee,2018,March,Wednesday,foundation,81,244.7098066,east
+1609,Betsy,2019,April,Sunday,eye liner,94,283.4587865,east
+1610,Zaret,2018,January,Thursday,mascara,11,35.18732843,midwest
+1611,Colleen,2018,March,Thursday,eye liner,12,38.18300548,west
+1612,Hallagan,2019,August,Wednesday,eye liner,85,257.1384847,midwest
+1613,Zaret,2020,November,Saturday,eye liner,39,119.0550888,south
+1614,Zaret,2018,July,Friday,foundation,9,29.10853501,east
+1615,Zaret,2019,January,Thursday,mascara,25,77.54204197,west
+1616,Jen,2018,June,Sunday,eye liner,79,239.8900392,midwest
+1617,Hallagan,2018,May,Wednesday,eye liner,83,250.6217221,midwest
+1618,Hallagan,2019,December,Thursday,foundation,3,6.444152629,south
+1619,Cici,2020,February,Thursday,mascara,62,188.2362546,midwest
+1620,Cici,2018,February,Friday,eye liner,6,19.31516511,east
+1621,Ashley,2020,April,Saturday,mascara,13,41.39474764,midwest
+1622,Emilee,2019,September,Thursday,eye liner,88,266.1530698,west
+1623,Emilee,2018,April,Monday,eye liner,35,106.7048353,west
+1624,Cristina,2018,October,Saturday,eye liner,61,185.3818285,midwest
+1625,Hallagan,2019,July,Friday,eye liner,95,287.1546771,west
+1626,Emilee,2018,December,Saturday,eye liner,30,92.41702576,east
+1627,Emilee,2020,July,Sunday,eye liner,1,1.637067423,east
+1628,Betsy,2018,December,Saturday,lipstick,5,16.92808142,midwest
+1629,Betsy,2019,March,Tuesday,foundation,42,127.31652,east
+1630,Zaret,2019,April,Monday,eye liner,14,44.54064071,midwest
+1631,Cristina,2019,August,Tuesday,eye liner,4,10.00599097,south
+1632,Cici,2020,January,Saturday,foundation,27,82.2563447,south
+1633,Cici,2018,May,Tuesday,mascara,5,17.1109582,east
+1634,Ashley,2019,March,Saturday,mascara,57,173.2964494,south
+1635,Hallagan,2018,October,Tuesday,lip gloss,78,235.6110266,west
+1636,Cici,2020,September,Saturday,mascara,11,35.30392719,midwest
+1637,Cristina,2018,October,Tuesday,lip gloss,55,166.9336199,south
+1638,Ashley,2018,October,Tuesday,mascara,15,46.98816838,east
+1639,Cristina,2018,February,Friday,eye liner,53,161.3922403,midwest
+1640,Zaret,2019,August,Saturday,lip gloss,70,212.0109068,midwest
+1641,Cici,2020,August,Friday,foundation,56,170.0315967,east
+1642,Zaret,2020,May,Monday,eye liner,91,275.4720957,east
+1643,Jen,2018,December,Tuesday,lipstick,55,167.8056998,midwest
+1644,Cristina,2019,October,Tuesday,mascara,1,4.706765347,south
+1645,Cristina,2019,January,Thursday,eye liner,23,70.73623754,west
+1646,Hallagan,2019,December,Monday,lip gloss,0,2.29985939,east
+1647,Cristina,2018,December,Tuesday,mascara,86,259.9649148,west
+1648,Colleen,2018,March,Thursday,eye liner,13,40.99004568,midwest
+1649,Ashley,2020,April,Wednesday,mascara,54,163.688553,west
+1650,Colleen,2018,March,Wednesday,mascara,82,247.6570212,east
+1651,Emilee,2019,February,Monday,foundation,27,82.64639245,midwest
+1652,Zaret,2020,October,Thursday,lipstick,84,254.5834253,west
+1653,Ashley,2018,May,Tuesday,eye liner,56,170.2492639,east
+1654,Betsy,2018,February,Saturday,lipstick,92,277.2693443,south
+1655,Betsy,2018,January,Thursday,lip gloss,25,77.55391857,west
+1656,Betsy,2018,December,Saturday,eye liner,67,203.004457,east
+1657,Cici,2018,April,Monday,lipstick,75,226.8644134,west
+1658,Emilee,2019,September,Thursday,eye liner,14,44.14052046,midwest
+1659,Cristina,2019,December,Monday,lip gloss,48,145.8112938,west
+1660,Colleen,2018,May,Saturday,foundation,73,221.1680042,west
+1661,Hallagan,2019,June,Saturday,foundation,28,85.64608835,east
+1662,Ashley,2019,November,Sunday,eye liner,12,38.54399812,west
+1663,Cici,2019,April,Monday,lip gloss,50,152.1134053,south
+1664,Cristina,2020,September,Sunday,foundation,5,12.64098802,midwest
+1665,Hallagan,2019,January,Sunday,lip gloss,6,19.47623391,east
+1666,Hallagan,2019,February,Friday,foundation,63,190.5686249,east
+1667,Emilee,2020,June,Tuesday,foundation,33,100.7532443,midwest
+1668,Cici,2018,September,Friday,eye liner,61,185.1654179,south
+1669,Colleen,2018,December,Friday,foundation,16,50.70907648,east
+1670,Jen,2020,May,Friday,eye liner,15,47.14275128,midwest
+1671,Colleen,2020,July,Thursday,eye liner,1,0.599495295,south
+1672,Hallagan,2019,June,Saturday,lip gloss,28,85.35916428,west
+1673,Jen,2020,September,Sunday,foundation,74,223.5358945,east
+1674,Emilee,2018,April,Monday,lip gloss,60,182.5295728,east
+1675,Cristina,2019,April,Monday,mascara,26,79.64478789,midwest
+1676,Hallagan,2018,February,Saturday,foundation,41,124.8054641,east
+1677,Ashley,2018,May,Saturday,lip gloss,1,0.728756976,south
+1678,Ashley,2020,July,Wednesday,lip gloss,89,268.7162046,east
+1679,Hallagan,2018,June,Sunday,mascara,12,38.03437362,east
+1680,Cristina,2018,October,Saturday,eye liner,21,65.91159641,south
+1681,Jen,2020,June,Saturday,mascara,23,71.51817115,west
+1682,Cici,2019,March,Wednesday,foundation,1,18.64097332,south
+1683,Betsy,2018,March,Wednesday,foundation,35,106.6509534,south
+1684,Ashley,2018,September,Monday,mascara,94,283.7951383,midwest
+1685,Ashley,2019,November,Saturday,eye liner,88,265.9615127,south
+1686,Ashley,2018,March,Wednesday,lipstick,26,79.79839366,south
+1687,Cici,2018,July,Friday,foundation,83,250.9869808,south
+1688,Emilee,2020,May,Friday,mascara,11,34.67747422,west
+1689,Colleen,2020,September,Wednesday,foundation,18,56.57016742,east
+1690,Zaret,2019,March,Saturday,eye liner,90,272.3598864,east
+1691,Colleen,2019,September,Monday,mascara,12,38.35856709,east
+1692,Colleen,2018,January,Monday,lip gloss,39,118.6350895,midwest
+1693,Colleen,2018,February,Tuesday,lipstick,45,137.7102537,midwest
+1694,Zaret,2020,December,Wednesday,foundation,74,223.2426177,east
+1695,Colleen,2019,July,Monday,foundation,95,286.9794076,south
+1696,Hallagan,2018,June,Sunday,lip gloss,48,145.4794184,west
+1697,Betsy,2018,October,Saturday,mascara,3,7.055698438,midwest
+1698,Cristina,2019,May,Tuesday,lipstick,92,278.5151013,midwest
+1699,Zaret,2019,March,Tuesday,mascara,17,53.27884756,east
+1700,Hallagan,2018,October,Wednesday,lip gloss,45,136.3123337,south
+1701,Cristina,2020,October,Thursday,lipstick,62,187.9720893,south
+1702,Zaret,2018,October,Wednesday,foundation,52,158.0460445,midwest
+1703,Hallagan,2018,May,Wednesday,lipstick,73,221.2395283,south
+1704,Cici,2019,July,Monday,lipstick,38,116.5398115,south
+1705,Hallagan,2019,December,Monday,eye liner,0,1.70597167,west
+1706,Jen,2018,October,Saturday,eye liner,70,211.8094293,south
+1707,Cici,2019,May,Friday,foundation,8,22.16452981,midwest
+1708,Cici,2020,April,Sunday,eye liner,65,196.9496646,west
+1709,Cici,2020,November,Saturday,lip gloss,5,12.23517221,east
+1710,Cici,2019,July,Friday,foundation,34,104.4614882,east
+1711,Colleen,2020,March,Tuesday,lip gloss,72,217.8858717,west
+1712,Jen,2019,January,Thursday,eye liner,1,0.65444776,south
+1713,Emilee,2019,December,Thursday,lip gloss,40,122.1426848,west
+1714,Hallagan,2020,September,Saturday,mascara,65,196.7048678,east
+1715,Cici,2020,July,Wednesday,lip gloss,77,232.4174052,midwest
+1716,Jen,2020,April,Wednesday,mascara,51,155.0013973,south
+1717,Zaret,2019,April,Sunday,foundation,9,25.10327556,east
+1718,Jen,2019,March,Wednesday,mascara,17,52.73287093,midwest
+1719,Ashley,2019,April,Sunday,eye liner,11,34.80677751,midwest
+1720,Emilee,2020,June,Saturday,lip gloss,40,121.6486981,east
+1721,Ashley,2019,August,Saturday,foundation,67,202.7248317,west
+1722,Cici,2019,July,Friday,lipstick,79,239.2506677,south
+1723,Zaret,2018,May,Saturday,foundation,7,19.15986238,south
+1724,Zaret,2019,May,Tuesday,mascara,72,218.059697,east
+1725,Colleen,2019,July,Friday,eye liner,53,160.7690084,west
+1726,Emilee,2020,July,Wednesday,eye liner,35,107.4093928,east
+1727,Ashley,2020,October,Friday,lip gloss,39,118.6705389,midwest
+1728,Colleen,2018,July,Friday,mascara,7,19.35407897,south
+1729,Cristina,2018,June,Thursday,eye liner,68,206.3442384,east
+1730,Emilee,2018,October,Wednesday,eye liner,86,260.2900127,midwest
+1731,Betsy,2019,August,Wednesday,lipstick,84,254.776311,east
+1732,Cristina,2020,November,Saturday,mascara,6,19.96504035,west
+1733,Betsy,2020,January,Tuesday,lipstick,5,12.77239415,south
+1734,Cristina,2020,April,Saturday,lip gloss,22,67.93673606,midwest
+1735,Betsy,2019,December,Thursday,eye liner,29,89.11463611,east
+1736,Cici,2018,November,Sunday,lip gloss,3,10.88983367,south
+1737,Ashley,2020,March,Tuesday,eye liner,88,265.5252397,east
+1738,Emilee,2019,February,Friday,eye liner,41,124.9892412,midwest
+1739,Jen,2019,February,Monday,foundation,59,178.8362802,east
+1740,Jen,2018,October,Tuesday,mascara,29,89.26165861,south
+1741,Ashley,2018,February,Tuesday,mascara,43,130.2996552,west
+1742,Cici,2020,April,Wednesday,lip gloss,75,227.5173259,east
+1743,Betsy,2018,August,Sunday,mascara,40,121.7081172,east
+1744,Cici,2018,November,Thursday,mascara,78,235.8865628,south
+1745,Zaret,2019,March,Saturday,eye liner,38,115.7976352,midwest
+1746,Emilee,2019,June,Saturday,mascara,3,6.354290779,west
+1747,Hallagan,2018,April,Friday,foundation,34,103.8978672,west
+1748,Ashley,2018,May,Tuesday,eye liner,85,256.4457112,east
+1749,Cristina,2019,November,Wednesday,foundation,70,212.0289747,west
+1750,Emilee,2020,October,Friday,eye liner,86,259.7572788,midwest
+1751,Cici,2020,December,Sunday,foundation,47,142.9319058,east
+1752,Colleen,2020,June,Tuesday,lipstick,20,62.60340378,south
+1753,Jen,2018,May,Saturday,mascara,33,101.4190663,west
+1754,Cristina,2018,November,Sunday,mascara,10,27.86548821,midwest
+1755,Cici,2020,December,Wednesday,lip gloss,40,122.3996673,south
+1756,Emilee,2018,July,Tuesday,foundation,13,40.44036219,south
+1757,Ashley,2020,August,Tuesday,lip gloss,20,62.15987464,south
+1758,Emilee,2018,February,Saturday,eye liner,22,68.77864375,west
+1759,Zaret,2019,September,Sunday,foundation,91,275.5637817,midwest
+1760,Betsy,2020,May,Thursday,lip gloss,17,53.53654615,midwest
+1761,Zaret,2018,November,Sunday,lip gloss,77,232.7830019,south
+1762,Cristina,2020,December,Wednesday,mascara,8,25.17003354,midwest
+1763,Ashley,2019,August,Saturday,eye liner,1,0.688781501,south
+1764,Hallagan,2019,June,Saturday,lip gloss,52,158.0743638,midwest
+1765,Cici,2019,August,Wednesday,mascara,50,152.5980125,midwest
+1766,Cici,2020,June,Saturday,foundation,69,209.2745805,south
+1767,Emilee,2020,May,Friday,mascara,10,28.42947461,midwest
+1768,Zaret,2018,September,Monday,foundation,10,27.78742676,east
+1769,Jen,2019,October,Tuesday,mascara,90,272.4724468,midwest
+1770,Ashley,2020,November,Tuesday,foundation,4,9.800520187,south
+1771,Betsy,2020,August,Friday,lip gloss,14,44.06669209,west
+1772,Emilee,2019,December,Monday,lip gloss,13,41.65160884,east
+1773,Colleen,2018,July,Tuesday,foundation,10,27.44900737,midwest
+1774,Cici,2019,February,Monday,foundation,81,244.9620972,east
+1775,Betsy,2018,December,Saturday,foundation,91,274.0163332,west
+1776,Cristina,2018,December,Tuesday,lip gloss,7,23.09610357,south
+1777,Betsy,2019,December,Monday,eye liner,95,286.409135,midwest
+1778,Colleen,2020,March,Friday,mascara,7,23.46039845,east
+1779,Emilee,2019,April,Sunday,mascara,9,29.49670912,east
+1780,Emilee,2018,May,Tuesday,foundation,16,50.32304692,south
+1781,Ashley,2019,February,Friday,lip gloss,37,112.6423669,east
+1782,Cici,2020,September,Sunday,lip gloss,38,115.8669435,west
+1783,Betsy,2020,September,Wednesday,lipstick,43,130.3805873,east
+1784,Cici,2020,July,Wednesday,mascara,5,12.64970674,midwest
+1785,Emilee,2020,November,Tuesday,eye liner,9,28.95108792,west
+1786,Betsy,2020,January,Tuesday,lip gloss,9,24.65336452,east
+1787,Jen,2019,August,Wednesday,lipstick,24,74.61122832,east
+1788,Cici,2018,May,Tuesday,lip gloss,30,91.37006038,midwest
+1789,Cristina,2019,December,Thursday,lip gloss,83,250.8450811,west
+1790,Emilee,2018,March,Sunday,lip gloss,90,271.870677,east
+1791,Colleen,2019,March,Wednesday,eye liner,82,248.2278799,south
+1792,Hallagan,2019,October,Tuesday,eye liner,51,155.2332928,midwest
+1793,Cici,2017,December,Sunday,lip gloss,66,200.1251143,west
+1794,Emilee,2019,December,Friday,mascara,29,89.0164073,south
+1795,Ashley,2019,September,Monday,lip gloss,93,280.8745605,east
+1796,Jen,2020,October,Thursday,eye liner,3,6.54198404,midwest
+1797,Ashley,2020,September,Saturday,lip gloss,2,3.635511178,south
+1798,Cristina,2018,October,Tuesday,lipstick,79,239.2507793,midwest
+1799,Betsy,2020,December,Thursday,lip gloss,31,94.72145499,east
+1800,Hallagan,2019,May,Friday,foundation,46,140.2151755,south
+1801,Emilee,2020,December,Thursday,foundation,93,281.7856089,west
+1802,Emilee,2018,March,Wednesday,lip gloss,82,247.0191821,midwest
+1803,Cici,2020,December,Wednesday,lipstick,87,263.7173333,south
+1804,Ashley,2018,December,Friday,foundation,62,187.5676875,east
+1805,Cristina,2018,December,Tuesday,foundation,31,94.57199297,south
+1806,Ashley,2018,August,Wednesday,mascara,43,131.3308432,east
+1807,Cristina,2018,November,Sunday,lip gloss,78,236.4403898,midwest
+1808,Cristina,2018,July,Saturday,lip gloss,1,0.441957214,south
+1809,Zaret,2018,March,Wednesday,lipstick,5,17.46980954,south
+1810,Cristina,2020,May,Monday,lipstick,30,92.31026541,south
+1811,Hallagan,2020,April,Wednesday,eye liner,65,197.1758555,west
+1812,Cici,2020,May,Thursday,mascara,14,43.79590269,south
+1813,Cici,2019,November,Sunday,foundation,10,31.25956274,west
+1814,Betsy,2018,March,Wednesday,lipstick,31,94.72958101,midwest
+1815,Betsy,2020,April,Wednesday,mascara,25,77.10312774,south
+1816,Betsy,2019,March,Saturday,lipstick,11,35.29563657,south
+1817,Betsy,2018,January,Thursday,foundation,62,187.5122264,west
+1818,Ashley,2018,January,Monday,foundation,4,14.18648134,west
+1819,Zaret,2020,September,Saturday,eye liner,4,13.71384719,midwest
+1820,Cristina,2019,November,Sunday,lip gloss,71,215.1214913,east
+1821,Jen,2020,May,Monday,lipstick,67,203.1815597,east
+1822,Emilee,2019,April,Thursday,lip gloss,19,59.45184868,west
+1823,Cici,2019,June,Sunday,lip gloss,12,37.63450731,south
+1824,Zaret,2020,June,Saturday,lip gloss,50,151.6681729,midwest
+1825,Betsy,2020,February,Sunday,lipstick,73,221.232518,east
+1826,Cici,2020,August,Friday,lipstick,30,91.68680881,east
+1827,Ashley,2018,September,Monday,mascara,19,59.10146687,south
+1828,Jen,2019,June,Saturday,eye liner,48,145.2174755,east
+1829,Hallagan,2020,May,Monday,mascara,8,21.60263368,east
+1830,Cici,2020,August,Friday,lip gloss,8,22.14353203,south
+1831,Cici,2019,March,Wednesday,lip gloss,28,85.90676798,south
+1832,Zaret,2019,September,Thursday,mascara,81,245.2131155,west
+1833,Zaret,2019,January,Wednesday,lip gloss,12,37.99191603,east
+1834,Zaret,2020,March,Monday,eye liner,54,164.0337372,east
+1835,Zaret,2019,May,Tuesday,foundation,70,212.3057204,south
+1836,Zaret,2019,August,Tuesday,eye liner,89,269.0728913,east
+1837,Cristina,2019,September,Sunday,foundation,10,32.27194121,east
+1838,Betsy,2017,December,Sunday,foundation,52,158.1758189,east
+1839,Cristina,2019,July,Thursday,mascara,85,257.8166917,west
+1840,Ashley,2019,June,Sunday,foundation,31,93.98370195,south
+1841,Emilee,2020,March,Friday,mascara,36,110.0299028,south
+1842,Colleen,2018,April,Monday,lip gloss,80,241.8335391,midwest
+1843,Colleen,2019,July,Friday,mascara,27,82.45575129,west
+1844,Cristina,2018,May,Tuesday,foundation,46,140.3944614,south
+1845,Cristina,2018,July,Tuesday,foundation,29,89.57751537,south
+1846,Jen,2020,February,Sunday,lip gloss,55,167.0360191,midwest
+1847,Emilee,2018,September,Monday,mascara,2,7.317364551,south
+1848,Betsy,2020,June,Saturday,foundation,60,182.392545,west
+1849,Zaret,2019,July,Friday,lip gloss,12,37.85166426,east
+1850,Jen,2018,May,Saturday,mascara,52,157.8830987,south
+1851,Ashley,2018,April,Friday,lip gloss,37,113.273904,midwest
+1852,Ashley,2018,September,Friday,lipstick,36,110.5190003,south
+1853,Cici,2018,April,Friday,lip gloss,87,262.8131285,east
+1854,Cristina,2020,January,Wednesday,mascara,16,50.27957449,midwest
+1855,Emilee,2019,July,Monday,lip gloss,50,152.1259358,east
+1856,Hallagan,2020,January,Wednesday,mascara,53,160.6276452,south
+1857,Cici,2018,May,Wednesday,foundation,61,184.7609381,midwest
+1858,Ashley,2019,July,Thursday,foundation,95,286.825263,south
+1859,Colleen,2018,August,Sunday,lipstick,6,16.5893946,south
+1860,Emilee,2018,August,Wednesday,lip gloss,9,24.76005363,east
+1861,Cristina,2020,March,Friday,eye liner,74,223.8275118,midwest
+1862,Hallagan,2019,December,Thursday,lip gloss,18,55.52414679,south
+1863,Zaret,2020,March,Monday,eye liner,73,220.6706348,east
+1864,Emilee,2018,December,Friday,eye liner,62,188.4267819,west
+1865,Colleen,2020,July,Wednesday,foundation,2,3.592437744,south
+1866,Cristina,2020,September,Sunday,foundation,7,18.93906344,south
+1867,Cristina,2020,August,Friday,mascara,73,220.7742121,east
+1868,Hallagan,2019,April,Sunday,eye liner,24,73.58598908,south
+1869,Betsy,2019,September,Monday,lipstick,18,56.08445493,east
+1870,Hallagan,2020,November,Saturday,mascara,49,149.4049382,west
+1871,Cici,2018,December,Saturday,mascara,21,64.68387265,midwest
+1872,Colleen,2018,May,Saturday,foundation,2,7.993840174,south
+1873,Cici,2018,November,Thursday,foundation,83,250.8753935,south
+1874,Colleen,2018,December,Saturday,lip gloss,63,191.1476067,south
+1875,Cristina,2018,February,Saturday,lipstick,54,163.8662854,midwest
+1876,Colleen,2018,September,Monday,lip gloss,19,59.71526085,west
+1877,Cici,2018,September,Monday,eye liner,66,199.3615971,east
+1878,Betsy,2018,May,Wednesday,lip gloss,60,182.2807138,south
+1879,Ashley,2020,August,Friday,eye liner,90,271.8520804,midwest
+1880,Emilee,2020,December,Sunday,lip gloss,59,178.6503023,south
+1881,Emilee,2019,September,Monday,foundation,0,2.656068901,east
+1882,Jen,2018,March,Sunday,foundation,72,217.9001505,midwest
+1883,Betsy,2018,July,Tuesday,lip gloss,6,15.73595969,east
+1884,Hallagan,2020,May,Monday,lip gloss,89,269.3955282,west
+1885,Ashley,2020,May,Thursday,lip gloss,12,37.83771126,west
+1886,Cristina,2019,August,Tuesday,mascara,89,269.1475428,south
+1887,Zaret,2019,April,Thursday,lip gloss,61,185.3147883,midwest
+1888,Colleen,2019,July,Monday,eye liner,24,73.81115186,west
+1889,Emilee,2020,November,Saturday,eye liner,76,229.9178081,west
+1890,Cici,2019,June,Wednesday,foundation,16,49.7539874,east
+1891,Betsy,2019,April,Sunday,foundation,39,119.1888319,east
+1892,Cici,2020,February,Thursday,mascara,92,278.4349111,west
+1893,Cici,2018,July,Saturday,foundation,20,61.92385747,midwest
+1894,Colleen,2018,May,Saturday,lip gloss,60,181.8703479,east
+1895,Emilee,2019,November,Sunday,eye liner,15,47.16102233,east
+1896,Ashley,2019,February,Monday,foundation,36,109.8425992,east
+1897,Colleen,2019,November,Saturday,lip gloss,46,140.4088994,west
+1898,Zaret,2018,January,Thursday,lipstick,72,217.8358862,west
+1899,Hallagan,2020,October,Friday,eye liner,28,85.65682953,south
+1900,Cristina,2020,June,Tuesday,eye liner,54,164.4873342,midwest
